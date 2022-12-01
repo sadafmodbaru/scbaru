@@ -663,7 +663,7 @@
       "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
       "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
       "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
-      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+      "des_add":"file:///android_asset/Addons"
     }
   ],
   "Maps":
@@ -673,7 +673,7 @@
       "name_map":"Mushy Island",
       "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
       "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "des_map":"file:///android_asset/Maps"
     }
   ]
 }
