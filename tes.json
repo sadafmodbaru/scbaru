@@ -2,17 +2,17 @@
   "Ads": 
   [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"1",
@@ -55,88 +55,614 @@
   [
     {
       "id":1,
-      "name_skin":"Batman",
-      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/NDCI0sNP8b4iWhKOo-WYW_dvLA2TFL7ivUEfY3-A8CZM31h8-nSM9skLsdvHlgiQO5q_dbux1EmkRLXKLMtg7w",
+      "view_skin":"https://lh3.googleusercontent.com/J2-KAmV2tJdG3cTjRCfQ3SzavgLCGPadN7lOn_LyGpv7n0oOtQV5PKEws9kmKwNr7X5jjTv0LLq1TeOOTCliEA"
     },
     {
       "id":2,
-      "name_skin":"Captain Marvel",
-      "skin_url":"https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/GS_4HnqDjuy5JCMRuGcp8Y3zWbklmhg8pwCkO_OO5uahNTlIfj4acBcMNo2poUQS0PxhDnW1pp1VQmUctLn3vw",
+      "view_skin":"https://lh3.googleusercontent.com/BPVqBvaMirukM-ElPUDhCrDrT9UZMEsRXWkFH2oOdV4YzHQ6yxJsctzXorEM7Y02UpGFv9St_3aghymRlI7LObvaq0o3Rx6u1cE"
     },
     {
       "id":3,
-      "name_skin":"Ironman",
-      "skin_url":"https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
-      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+      "name_skin":"King Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/LeFOAHU7m7dYlKsknaiZ9vgfzGN0lDnMXh2kRGfWdK7agSBXx37e6vLUpyUbNLFdbKPVKbVk6_H4AZ_x4y0Y",
+      "view_skin":"https://lh3.googleusercontent.com/5UZaIXTlcf2FGRwCxiBzwl8z_y0Vaen4cDZbG_2DcrSMcEzRxFenp0x88k18-qmjhbX7SsXK5kOqGj2hh-3py9E"
     },
-
     {
       "id":4,
-      "name_skin":"Spiderman",
-      "skin_url":"https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
-      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+      "name_skin":"Capitais Black",
+      "skin_url":"https://lh3.googleusercontent.com/_MgC124n1CBCnJB0iaaj3Z97IkNuu48XV7lJjeyow4U6s9b2FRoDzoZfbQukT5kcPwxXecCWdsth5l8iEKoHdg",
+      "view_skin":"https://lh3.googleusercontent.com/KRqJBAzZaYl3NE0uVBjcmkolHEKXVm23-Vyb5SGl5oNDe5BMEg_vLvRjXzfXOXXj7EHpH3WjuDCoGGPfwqxyQj0"
     },
     {
       "id":5,
-      "name_skin":"Deadpool",
-      "skin_url":"https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
-      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/QlYiEl_moSoqJSh3t2nLUbvboU4eF2zEReDnNfRZUxxK8EAxezDAXe9py-v6W3qO597bZb_ChnUHxgvvkuSCWC4",
+      "view_skin":"https://lh3.googleusercontent.com/8uSClfLeKFyR6SbuY_gN5XOZprlqkjlW6TT0nrZLWiSIUdbusKtfJ9CmCzPYwopugsJh2Km2WDvZSaEs_sBlRg"
     },
     {
       "id":6,
-      "name_skin":"Captain Amerika",
-      "skin_url":"https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
-      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/Ce_GQy72OfyzMzp-tX1EmmhyJv3KaJb6NCr4DxadxDXt5-NH4vkic7a6SZINMJSR0qVtexoX_bMkengtlQ4j3nA",
+      "view_skin":"https://lh3.googleusercontent.com/wsV-eZ8vBjlopGyr2EtKXdxj540AZ2WDhOjOuNmZWegmL6cX1HXFkQYAoe40pSZPSsHcy99HHaIMEHyDVBvdZUA"
     },
     {
       "id":7,
-      "name_skin":"Wolverine",
-      "skin_url":"https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
-      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/SZUoVw8BSjlJNML4wr0KA5cTFW-TzHbCfHpqD3L7nxWqBNHn7e-ms10iHiREZ4q1VtxvSWaHXX39TWDcfasFCLk",
+      "view_skin":"https://lh3.googleusercontent.com/8udgsSNxyyi-yNf1P3hGkT-ZtG5-Ts7FpHQWrXUcdyvCnxFpu4SvdJIxrkdTsFqJyF6YAzumqIgLmQoc3vVm"
     },
     {
       "id":8,
-      "name_skin":"The Hulk",
-      "skin_url":"https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
-      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/x3TSbabtykIGHgXhz18OLAdu05N_ns-YXSEmcMSLHHRUFS_3hazEhsR5UtKwVwjAO9A2l40C2sNfrrziflX3Vg",
+      "view_skin":"https://lh3.googleusercontent.com/cC1G43_avnJ3NOR1CucKEiwuQnLI_3tvQ2vBo4L8594iXidywE9dgSjoIaoOMBEyXlLASNtCS-4G8t6phCDbbQ"
     },
     {
       "id":9,
-      "name_skin":"Thor",
-      "skin_url":"https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
-      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/7YHP57G2DmzjKVSqVUrcIUbesajUFbM76c9k9m2AY1K6bnWqm_IhTamOOJBKE1yk9NDvaE4mlNS8HmehYGukbw",
+      "view_skin":"https://lh3.googleusercontent.com/zbLBnN-C5ECBu2RoMM49Dl5dctE4IPNgasUkz5C5OVuLNv8s9okq3zzLIs7nTfqhk3sk2cy550WHWAi4jHcM_ro"
     },
-
     {
       "id":10,
-      "name_skin":"Superman",
-      "skin_url":"https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
-      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+      "name_skin":"pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/oZSw2lVvFOu9lGFAbS72CXLpEYXsRU5D2nJFvJhjKK-RjJJP_jsbucfNDgvIQ6bw40hNUEfsIJd1484ujpFQeA",
+      "view_skin":"https://lh3.googleusercontent.com/pmjulYfs1C4-gyE9O3CO7lN9m12Ff5_DE_dqm4-9d0s2RDUTTzCbe4YCtmiC5q6UyoG_c9_5F0RPT7ievrGMQw"
     },
     {
       "id":11,
-      "name_skin":"One Pouch Man",
-      "skin_url":"https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
-      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+      "name_skin":"Akatsuki Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/rdsmYcnTSesXp9j05D0C3hv56H05MKpEpaoJI3wCN9rEIGPa-2TyiCyeEg5_-nn8BrVb7AH-5Cbc0dmY0k7EGw",
+      "view_skin":"https://lh3.googleusercontent.com/SAh1CUbrYiJoE_GxbGIOY9FBuKIaEbjlqFhpgAqi_iisMvxWvK0O9Vemfe6adderSFVmBn5Hai8XOkGsForANe8"
     },
     {
       "id":12,
-      "name_skin":"Son Goku",
-      "skin_url":"https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+      "name_skin":"7 pecados capitais simon",
+      "skin_url":"https://lh3.googleusercontent.com/1o4IQdEGjPETvHThWj5f_dFTiHt-6y3rXkvJHYFXCmkLeDW4M_S_tao4nBc4fS6wtCRqGOM8RCDF9EyePqdIaA",
+      "view_skin":"https://lh3.googleusercontent.com/RkNfKY4TjTOZSHt0C44UUfh3xydN-j67F4m-v-dPNM7-44q7r5zowfbsEJ80fqljTD1RFyVF720scQxh_ptn"
+    },
+    {
+      "id":13,
+      "name_skin":"Akatsuki Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/czWt7_Wjbw-IjZuDXGaOmDujfw2-4V1k6FxtQGz3ZoZevuOihsF5tciRq_XHBIsD7Yw67RmmFDSMDIjCOKVVIvY",
+      "view_skin":"https://lh3.googleusercontent.com/JbZ8b1H3lv6cOvId6czf9f9_SGvaAZy_VvT9TMXu3O54_X_2wSyIa6ef3en7OUSLCFQoJhYcXT8kF8psubm9SA"
+    },
+    {
+      "id":14,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/p8WWc6dDkvCuv1lq1p9x4xfTwCgmX6YItzh-C0pYgcBX-KMTVoV0Au2KyixV8Q9tKMssfYDJmYBc6wxjQbFozDM",
+      "view_skin":"https://lh3.googleusercontent.com/rXhuUzSmvEC4NAL99Vr2pPWUSB5ZIo-5u0DoobV6LMf2Sa42pWvcgRCFpEAuvbGNXlPBY6EwwMO-N0Xz50xu"
+    },
+    {
+      "id":15,
+      "name_skin":"pecados capitais mestre",
+      "skin_url":"https://lh3.googleusercontent.com/KPnUs6_w4ZYpc1duFNLgbHe08DLHWN2IXr3VyO8PAFa8xg1YH3L6o9CUNY4iJWEhEvrQAONpgnA6xRqtUeCa5Qs",
+      "view_skin":"https://lh3.googleusercontent.com/WcPM6W13K-tC9_hNQCxr-Qj_JPDuZQ1EchR0DUKH8sZWK3ro9SzWxV2rWpDzvwSf9toC9Eugei6ZYCIP8a5R"
+    },
+    {
+      "id":16,
+      "name_skin":"pecados capitais amine",
+      "skin_url":"https://lh3.googleusercontent.com/hsZNydbWT1FILjwPbw2jHOPDLmtISYMYpkmduD2W5CXY9e6khMimyR4byMnnKlFUVpGUbvEGgYSsUqPFQvUynhg",
+      "view_skin":"https://lh3.googleusercontent.com/gK1MqcctQyHWSapGmbQhxJftC48x3Lqamn_M1lW5hP2QVW_DL_p7-iXZITXXfzjgwbZmvjc8g6iJM4Zmzloh1w"
+    },
+    {
+      "id":17,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/PugjDbQzr2YvRZhcVQwJeeJtTMvf7VnQIoAvc7Oo1ojYJTLIMrNQFZvX9-dPySSetptMDK6VPRY-AQDhBKduiw",
+      "view_skin":"https://lh3.googleusercontent.com/gXGwhp8gC6fOTDFgi9SpZjMHdOYmvV1qaiQe9mXObeH1FY1tloLeYyd1abH1hDGeg9fTq4n-6aebcL7GveWu"
+    },
+    {
+      "id":18,
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/EkinBNbVa40SX5i2J_HFxsSnBnRZuNmQHyrtyKWwTPo00aJTwz-Prkce3rXhmQ-Q0Rf9ezueZx9DVz_u5-b4",
+      "view_skin":"https://lh3.googleusercontent.com/R-ML7kCXKot0WW1in2RGs9oJEDSwb5Crn8plQrlsugcxQ66btl8_RuZJh6bb3QmcXmYHAbxSP_rrzago5yme_AQ"
+    },
+    {
+      "id":19,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/DuaNj1QGqV3WJuppQsVxwcCpv4uiRQI-F4Q2Pt5632c_v6IwYXhCjxhzuTyBjznTDePuBDQ5hNcmDAiUXhsTm7E",
+      "view_skin":"https://lh3.googleusercontent.com/tE9Vb6sbx0xGCtEJU9kiK3qRV1lP1QVl3YVzaOiZyoiPBbNfcuXBuUFkFgSRKHgImAkEzAG6OPX9wShsREwW"
+    },
+    {
+      "id":20,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/NCw636ypRn1R7tk8cEyfyx6E2RKU80LN596-hJWYIdg59RiqCYthQ_7_Uv4Jf3LJLcAs0i3Gzdhv52EiN2QO7A",
+      "view_skin":"https://lh3.googleusercontent.com/TbTVJFuKdDTurKJhBXmEX9FKMLzdCWS-RLsroAgFWpOp4_CWI9GCvR-qgL_VfY1F2GUrhoLEtFSvtVjAXgnw6Q"
+    },
+	    {
+      "id":21,
+      "name_skin":"The Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/bj-EBhzN_967LXjt-RT20BDUX0DskltJl9Acmb-HZqqAB_8geh90nhWVHT8e11aQDfx5mMMZVRRVLNPsgTfbv4UU_EUJAueq006z",
+      "view_skin":"https://lh3.googleusercontent.com/QQlbqY77E6WsjqNx9X-8zbpCk7uaioaQJWik5CzamL3jx7KfmlZNrlOuAWwulXqhvEwokkDwJEa_tGhABPcwOQ-jPWmUywRnqK8"
+    },
+    {
+      "id":22,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/Ad4vvjaOSmeovD0mayD09Rges7_gf1Wnhb6sWz-zjh54wYEQAo6UEVuX3mCnrGX6oRf3PlEDntjCYZ9nF3bC",
+      "view_skin":"https://lh3.googleusercontent.com/ySCZXQ-Ooi7ShDSCblHjzWamWRYERDXkWuDsE2DL6tGh13UgEdP2XCiLMRoI431SpoYjYugHHqEpd0QJr0kLxQ"
+    },
+    {
+      "id":23,
+      "name_skin":"The seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/j5PFQFfjgMeLXwYoo2OfM1gluRuWYuimiqjj6mbhw5YOfQGSj7r8WBNML_fRnu7fu8SDMQPV13pZhYUElOqT0g",
+      "view_skin":"https://lh3.googleusercontent.com/uJ3Zm6OhQ-F8-scVDaX_mtAsB_vev7swMsSDjr6qUQNI1AOZ8gzdugfPVOGDVK_cwltzYVmD4xC0ALUeMhOtkQ"
+    },
+    {
+      "id":24,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/ywTIU8uiLGOtCHPEJGLOyluDGe-ZeeQz116_IbZT_eGzZ8Qa-ebb7FHKaepZ0FIgkAGDXqj_jR6sRwNjQ25l8KwjoXAMJ7KFBbo",
+      "view_skin":"https://lh3.googleusercontent.com/SxXDTXOZr34GlGDWFchrpJOnH-weBBDMyL2OlekbKTQ6vSm83p4z8xyY47f_8WrkWuLxyDJQZCmonw4Gu0K8p3WPZnniU9w6JX-s"
+    },
+    {
+      "id":25,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/fJwXB-kqE2XRU6pMLVGpjaITKRv5Dl2KLv19Qo-YG7jo2jcaVGLwygUmy3_A5Pc5ZN3CiDKTjEgEd4THPCq9iA",
+      "view_skin":"https://lh3.googleusercontent.com/9fkMtVYgMqM_yRMQsVp7jhggbVCJOH-h9HdOcpjIYBtpv-v-g953jROVBHhcjT3fIDcxns8_QkvkZ4fvshx0-A"
+    },
+    {
+      "id":26,
+      "name_skin":"Seven Deadly Sins king",
+      "skin_url":"https://lh3.googleusercontent.com/R2MU9oyPv_Px5HcgpXIVLi5QITmfr0CKaBCZX9vJhYQ4JeOloJ7OHkQxR-1ghNYh9iumypl2ztpLQyKOzoz9eQ",
+      "view_skin":"https://lh3.googleusercontent.com/uL1bW7x7CXaA6877JjFYahRIrzwPKus07Eh5GAQpDf0_THp8XG-9f7othnqYqlZXlifyvE71jipIXs6cEH6jlA"
+    },
+    {
+      "id":27,
+      "name_skin":"Elisabeth",
+      "skin_url":"https://lh3.googleusercontent.com/ftp6Y2LtjHatDO_BASmdMvk28-d2BP7GQwyMn8M0DAjT4lugPaYwgjCwFvKXhFcPVvAjWt2RXoTyCQK6ltTbrA",
+      "view_skin":"https://lh3.googleusercontent.com/T250Tf2Hagr-2RrcEjfEv4byXRtk0_ZWx1Enzp6_bwR38u9sjodqU0_1lK4c_bKFERosP-jCZ8OJONRbJEyxtfAJUaH48ms-26E"
+    },
+    {
+      "id":28,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.ggpht.com/hsKWHtKW1Rj3N5Rjxw5I8TYaVNsMAmZTHYTgWsFJMQ2rEo0YbH3bH1xJmRzX7042n-QQ-L0E8NGcvPBsz4X1P9E",
+      "view_skin":"https://lh3.googleusercontent.com/Q_FIGo0c-1-UD7Nh5qbM981W-OAF1KJVhqJWYy5Uo8HoXm-JJK77_szt_v1W6DHWLFs5cP3O9DvssUkWIvYXFw"
+    },
+    {
+      "id":29,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/C4E0hcAYe8cw56V5e3vinrsXV2Jq7swd3wmRigb6Cu66qxM1kiyUoMk3z5olMD87ic5nf_WUVphBEDfUq-n5UQ",
+      "view_skin":"https://lh3.googleusercontent.com/Lx6vzrPvB-UzEbbVL3-hqHtmhQJvkjCcr1fCRQjEHDSxPKmgNg1mPt8tDtUzMoRlQltn6_owc-Zks11KvBACQQ"
+    },
+    {
+      "id":30,
+      "name_skin":"seven deadly",
+      "skin_url":"https://lh3.googleusercontent.com/p1qWDn-SHaRDKqqaonbk2QAFvxXkhc-w3oh_acQPST4glmoHxitNzjq2tZINreKc3N5YThCzoS509Lsus1GXsBACzG1KpzvAVg",
+      "view_skin":"https://lh3.googleusercontent.com/bqX7OPlU82ZrRPscEirSmVV8SWC8zA4fZl6eK1rLMVy0HTWrm6fivvlu8hS_wtMpEmnJoq-hfiZtuusrN9LOcajOjFNVXv3JmMA"
+    },
+    {
+      "id":31,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/Pn0HP5qY12xCAuSFRbIgkw8yzh2vAsTOaxKvgTLKNVpvV1ouS1tzH0n3EeKRomud42sM7BQrH5RwvjSkkVFEYOgOkViwgKKNDA",
+      "view_skin":"https://lh3.googleusercontent.com/RJzZGsjuMYXjiGQr8S5Um17_R5hJTSnbfLcOyoMpqSRF51xA9xcReVgFyW6wnpKPO5AiE5WtPZk6A-_M4J_bwepaDlNvLS4c0wTq"
+    },
+    {
+      "id":32,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/SsL4o5gql2zcNl7R5zcoY8psUQhJCqsnNWJZVu0FBEacK-8zwjYWc_wNRoLR-M1yHMJSQ2RbxRdYOg56dnLv",
+      "view_skin":"https://lh3.googleusercontent.com/d7ACX_eF8rmkADdGepWp5gnJKAodM5dn0sPqPF-zyi4co0sCFG9h1nF8CxCCfatgMvYQCCRBQS5ZthKEu4F3nH39UG6ezb79Cr4"
+    },
+    {
+      "id":33,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/ZeXemSMXIWB2MzcctsjDET7z1-SI4nlKmbGCCDuRewEuriaoMAQFuk4TWIZxGV8leRfcNCB_3tI1Rtcdb7_V1nmvX0_4K-RbcQ",
+      "view_skin":"https://lh3.googleusercontent.com/KFdlCzfTqKrCCB80c8Grg0hlmRCwnBXVbsvll__ALLODFH6f_IeOBPD5ErUMCHBQx01VN5efJMfEV70jbVr1sL9Hi4zDUs73bw"
+    },
+    {
+      "id":34,
+      "name_skin":"seven deadly",
+      "skin_url":"https://lh3.googleusercontent.com/KM5wyVPsEaGqIBx-XUJzihkN-85UCnYdUSvrsGH6UM8WOySQOeu0n9CEhP4PraTpvf6DBjclqzNbhewGyoE5xrjv3l5Gj0O4xUO7",
+      "view_skin":"https://lh3.googleusercontent.com/v5ZHdynTSt0-Jn0i2xAYOd68IpTyRgwpVFC9gpq0-jLwJZdbo1mq1FWNkKa5faojHsWa6HNd2ZEGUn5BeNUCLkaIqCQxQgcH1w"
+    },
+    {
+      "id":35,
+      "name_skin":"The Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/CmM8hieOA5tzKDqd3dC54JShBQRIcFca2_4zSfdVEha2RfEYjJwt4ja6FBryBgsHrGAY3A52Mg3A7VgxrsGY",
+      "view_skin":"https://lh3.googleusercontent.com/Kx5abAwdbpylpzCiSC63I4UmZyvUEP-bxPiS6DspiJ59nQRHQEHNmgPSUtaBCN1upYHxXpnwp1Dtb9MbRzI0kw"
+    },
+    {
+      "id":36,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/R7P1w-w-QuBMV5n6xsxfpqT4WFxwuujftFAhPd1ueodg9nkADqcd82P7YRIbXTt0NmD0zZJ87wtaaJvNKavj",
+      "view_skin":"https://lh3.googleusercontent.com/3ducPH8iw-AoYIxPKsddr5fSt6nw5ivZQYCTP_u2Q2cP7L0T4AYn3yciAdKpNdrKMkoGRrWKlyPJx4XZX4-KLQ"
+    },
+    {
+      "id":37,
+      "name_skin":"Seven Deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/29_E8M0IgGFHsY6NpUApxInauhaM0g-0SNUca0HrrXwn_1Mi7IZD6Jrkpc48f-OTpQezSc8BrYe3CulUweE2",
+      "view_skin":"https://lh3.googleusercontent.com/d7ME_B2dK2pSle5TbU0AkOlEdn_k_xjoq9aCUtQlx88idzbLP2Wjk3Bhr9O8Yl3FbdVkh_dLgMfLvGl7YbQigQ"
+    },
+    {
+      "id":38,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/Hdr0W2N9EijGLMQAWlUDWOfoYidN6ynzS65rB5xFYturM4AJ9dW699sj5TTXo7nRCOiglP1NQkC5wnAbExNQ_Q",
+      "view_skin":"https://lh3.googleusercontent.com/DTeobanyf0i6PXmKYUNom54uMyGNCfJYqUA7KcyPtYWjXgj7cTr_HnNryY53wdBGxQcn7eaT3HGLGoACIA6sGJk"
+    },
+    {
+      "id":39,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/wOsos5pMP7YSofO_OC-c_ZEnVQk3ZSrTzWqdBHzdjg9KAJFIpFNzeWa9YozC5ATVI4ifsGKqcJeGWNgaD_g-hA",
+      "view_skin":"https://lh3.googleusercontent.com/1OyBKuyYMi2EcxOU20KPkKz4g3J-lUqEQfMnW-zo8sy30LLxo4rM6fRxXlM0vRkS0NOnhbVPj9Q65nKB5c1dHw"
+    },
+    {
+      "id":40,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/Jy4gStIPTtoC0Xj4EgE53c78ZyV1IyZOvipmpGwAX7DhvpC56nlV5s3d2GG8EDntbON2UvLFswNRensGEv1i",
+      "view_skin":"https://lh3.googleusercontent.com/I0h4ihkFrNUgMdHwBeL8igyCCIgze85f34UulaisNEEA1ZD9eo9QdN-mTwEA3las_NcmG4uhKFmXGanZrvavCw"
+    },
+    {
+      "id":41,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/kP3w_sSbBwnewh4Ohxzy0aXge8GyImVCS7FeJCeuYv6BSA7FOHGSmBv5sMX-YGHf5pyqutqlcPMeAkmeBzfeYA",
+      "view_skin":"https://lh3.googleusercontent.com/vGlVedYoIVVyR_xorK6eLnkDC1meVEiCiaErpoqHkYp2N-YL6EiG2KTUs34OGEt78TG26LNboGcwkMdTb9O96A"
+    },
+    {
+      "id":42,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/pR2WU6fdjfnaXemAM2rBB9OsET5mtTLs0XHRGF7xXyc1rDVzJNbysjE-XGaeOvUH2cRkB41YDiD49Z8ghZihAw",
+      "view_skin":"https://lh3.googleusercontent.com/JmLZEQWqN_ttWoEhDaKSLdGHM7ga_yybT4qgw9BlLxwmYHbzHhrQ_7ZxWBzNPKjUgb7-umBBz-iORlTpiXyMShI"
+    },
+    {
+      "id":43,
+      "name_skin":"The Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/NqFOcYs12uEjicgsA8dGSknMJqE9V0yKNHT2092GlFFeWsw0YXsPSBQaOWqTQF7lBy2xH2QD84TGevIlEo4K",
+      "view_skin":"https://lh3.googleusercontent.com/cEyivpgFZ-E7LnU0VYhsQ7AJoksznlb_eFSMgrxn25USktR5rRhl0LL8NGbApqfZbAsxxu7S-wmM7VjFjU9cEQ"
+    },
+    {
+      "id":44,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/HnitlXnycoS4b_ylF4gARv6YsQg84hdir3m7k0Lbm_MyNpAu8EyipvGNoiDlkVon5UZsFemqlIni6XTbqG7fT2k",
+      "view_skin":"https://lh3.googleusercontent.com/uJrusylivZLHqr1vBH8xzSPVinEC8d-K4e60i7FpNmaqkexQA8UyhTrWnuCJTJltzlKe7_ZdcRbEa1qhjEL_Pw"
+    },
+    {
+      "id":45,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/O3lTg8UZ3DwWLxoPUVbyEVs5jsqXTWH6H67_VNW1UWlxjxc0FA0OmS_KVCGIBBkagrJR8LkU6f0VYf3zt4RC",
+      "view_skin":"https://lh3.googleusercontent.com/PMqtV3RyCg8N57OiwOYDSCoeqpbCOicU3ED8RmYAAGPzjJCnKUWgPJuMxcXOn2qwSpPwDWlU30476tC4ZRAg"
+    },
+    {
+      "id":46,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/gYNNyDe1QKelzmBS0qirI2vaEmNDoXvI7zpEOlI4RpELkNZ_ib2tV54s7otcwTpP4AFCXmrS6vpc9RlP07m0",
+      "view_skin":"https://lh3.googleusercontent.com/SHv0v3Zx1mkCjQgHZs1PYGnlv1xdAvV_CQMwWN3mBuqXoLLB40tADIyclKwzWh6wh0xElvDxqqrI8cL5qC-isxc"
+    },
+    {
+      "id":47,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/pS1c7QFzEQ4nAch0d8TGIF8VfL9OlMp1P9YR9Rg1XSDfoM8n3AGzVnBF0eBqO7pU9RBgFou9x2LvKvVjyosd4g",
+      "view_skin":"https://lh3.googleusercontent.com/g9gPWulmU5lVptbsApkbOUQfrj-JeBb3f0r12zda0cpH8UV3rRDGCZrcUcg3sE61Bv1ee9Gha_g2VPqtzUs25g"
+    },
+    {
+      "id":48,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/3IrtCJvEjrbtRJ2Iwwekpc_j4t9MRnimbkE_MM2ibOHmzmvwwqTTH1HOJqvwrKx8cDeftbtrM9Vr9wEOhNqlmTA",
+      "view_skin":"https://lh3.googleusercontent.com/4hJzu8YA8di0xq9yBtH5qhNy1dvKpC61keVdA_pH0GGmxB30NNGlYtCc73mdQLdfZ811IEMsLRDN6NQ7nw1tdA"
+    },
+    {
+      "id":49,
+      "name_skin":"seven deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/RCVMNFOibM_Ybr7wcnpsRZZEamQqlRPbeHMDGkfbC5senBGmPorV0UlWIzw1ePo7zDL7glDygN9v2PX7VnXSbwE",
+      "view_skin":"https://lh3.googleusercontent.com/6mKojZxc31JoVUbuUQsSHtW3FLqA-UPiDI51NxK8z9n-6h_Rb2cxEpbtBjOILblbb69-4JBUklNfCY3wKqchhg"
+    },
+    {
+      "id":50,
+      "name_skin":"EVEN DEADLY SINS",
+      "skin_url":"https://lh3.googleusercontent.com/tY0X3PSYYjDqgXJqs_Op_oZrmE7EbDaSg80GOo5YZO5jt_5f4MHnmA4NhCNQVzTWU-Eir3W4jILktaGmkMQjqA",
+      "view_skin":"https://lh3.googleusercontent.com/wKUDNf7shI-QWMK_hZLJCNv0t2PV3iimwjojDt4KSbyAA4csEScWqcbnyLNdSmUjZDvUZQOgjBOK0HpJpujWxQ"
+    },
+    {
+      "id":51,
+      "name_skin":"NEWS SEVEN DEADLY SINS",
+      "skin_url":"https://lh3.googleusercontent.com/TB1xD6VE4LbMugmyPkMiZ5DwE8s3bSksWNOfQuIvxltIHmFT4jNeTAzKY99VecIIWz2m4YtDvPZtOdfWMc7P7A",
+      "view_skin":"https://lh3.googleusercontent.com/s5VU5NJcfTVUGvSUYnlQ1GuLQn54nYqd9RMX1RUzwXm7FupwJ44-v2eCLAWxK2PWUdhbzzxNQSLFlU1rE1IQSdc"
+    },
+    {
+      "id":52,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/jiKbev50ROul9DP9NVXcZYPs-HNrqdATapvEPglp7-ffosSsAoE_PP1QOHJkYlRyJ8IssxMAI-LI_H83p3B9zJ0",
+      "view_skin":"https://lh3.googleusercontent.com/_8ud5UGk2OO0A-owa5Kl4V6ah4qh1lW-dfsEJDzkkoB9j3YpOvWMu8OQcFs6i6TB9BtPquFFKI45wipUAuNLrA"
+    },
+    {
+      "id":53,
+      "name_skin":"Seven Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/216uGgEbWrOzRE0wfqY_m7VZp3ycHt8459sMN4KLBDC_iC3xA1_qWsrKI0HwPbohAZBm06jIZ9scognAKi_WnQ",
+      "view_skin":"https://lh3.googleusercontent.com/Zgn3izCxr5RXdyTSscL9snL2N_2LpBFtCcYjJlgikG_82JJ4aof2fGdEBt-eHDqSSqDFz3Oa-_Xd5t-O3rjxRCI"
+    },
+    {
+      "id":54,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/Jk-3P4CSmy22iOgfNU21Esy5NKMMuvXOsnoNxAEtn2DvhqX_EvC4AOkz0w92_KoHhmI3TxfN676lt-rtL-14",
+      "view_skin":"https://lh3.googleusercontent.com/sGwNIrj-REOw5AMi5evQbUIi2C2PdxdDTy1ywABOUdpHVwR3Q_g-3QoGcQwwTAG24W47LEqSpm9Cg9pzkj_C4A"
+    },
+    {
+      "id":55,
+      "name_skin":"Sins",
+      "skin_url":"https://lh3.googleusercontent.com/jnF0z-7bB8sQ6k0sZc3OLBKSuNZ5MEk5jQSRasIVqjkh3P7tSaj-Xxb92-jAZhTJZGLJ-JgTZnGmr4rMcqa5VZn_qmBodH9uHkLc",
+      "view_skin":"https://lh3.googleusercontent.com/Qz_Uegzw8JAvTFQreUuPZy06tX_e6JMt8ZcLNrXAqzYECrF_SOn_zavrt7TRhZvEuYjCBkX5MYXE5tmU1S0EaiHqkXRez0Qlqr1o"
+    },
+    {
+      "id":56,
+      "name_skin":"seven sins",
+      "skin_url":"https://lh3.googleusercontent.com/kRVnMOieDflwJy8di-RFcppSD-YpUwjwPLyAA-fSyyLxX7JSZhLoxWbkXW1e0Y_0iH3imapdQOQKAIvkmXNnWHqsajLeZSscOjWL",
+      "view_skin":"https://lh3.googleusercontent.com/YowHMWXfyJ_hEYZKAHasAyEvB1sdjSISuf2i8ZQog4B07981Ac2mVVpCEfs4BmH8lRV4cdXFvCH5FzCiUSye_FPvd3SBK0Jw7QU6"
+    },
+    {
+      "id":57,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/c_7F4y2vK_5_t0FcgXEU--liAHHvdz_1xKO9C1ERCdkwb74s0I8NndQcXkAdXAwZAY8xBhuKMKosxAj0mxF5QG8",
+      "view_skin":"https://lh3.googleusercontent.com/jI4QNw3RbS698lxUX1v2UwaOk7ZO3wstSGQORqJz3z4pWr6_KXRg1GLjT73V2vhPf0lQJ1j27uqUir5HoM4YzA5YunpaMBWj724"
+    },
+    {
+      "id":58,
+      "name_skin":"Bandit sins",
+      "skin_url":"https://lh3.googleusercontent.com/hT4m1nxXoaBU96tlqqCXubG2dNABXcjxFiNfellMg2i1thsDQ406jY9eGs4GuhQN5x4ex7i_nqmBO2kx5oSGbw",
+      "view_skin":"https://lh3.googleusercontent.com/43DkkpgfMsV82V5OYZsIgNHtvITzglSPKPqdH1PSS2GRDyU2XSrOR_6ElEuh7jFa0r0vZiu7HLCyfQ_anMulhA"
+    },
+    {
+      "id":59,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/8vKlMdiZJOElxbz3t3reICI-_z5x1N2m2S7Pz-EOnN9ZNrxwLDiAIe0uXKuJObAZlaGBM-LEufI7w4ttvS5wdx9zFtfR4eqY3Q",
+      "view_skin":"https://lh3.googleusercontent.com/RMRDReK2ypNGbjUg4VBGBE2Dgs3fGtMXdKvysZTkM0GNuS15d3C9sU0zk4B54SFjnGk_WTcOFPHyhhqgh1LaKbpGt18laapv-Ok"
+    },
+    {
+      "id":60,
+      "name_skin":"seven dedli sins",
+      "skin_url":"https://lh3.googleusercontent.com/30gSwfE_uV1eHPTS3gLp25QYi1OjBROdWPfVrmGU85eRHF8wyH3u0_vYebV_O0O5DfJ-TgUWGf1RasjU2IlbBg",
+      "view_skin":"https://lh3.googleusercontent.com/lK9YZpZzBN0UEnUrj0CZlfBvQEPN9Z9j50ADpnJFc_JCvnvzQr5ygzAB4MYg1MBbnmcmw8NuUT-w_Sgyht1VdsqwZQnyPKwLyhs"
+    },
+    {
+      "id":61,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/pUvhQ-vU4_cpv_oSbJFkMqqPRFgzaRSmcGOjpDMIG8z4KYegBAd8j0su0gAjn6zWqFphzz8-I1bJLADqQxCBPkPNCMCWG1_I5OA",
+      "view_skin":"https://lh3.googleusercontent.com/nVwd_jDVQkybWNCBmHP4A74x7TNB_CRmA9OVNrSM2eXfDBQk7STe5Iks1YuvCK1RdS-shEv--z8FIKGBkihSkDwyxi_OME1qfr0"
+    },
+    {
+      "id":62,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/fdq_oDWYPFacSa-Xf4PgUMZrHYRuvsneUk8v0X5OiOQIY9B2-PgVs5r6Q5d6iDiprlCcnQ7--dFYuyArf3rlaA",
+      "view_skin":"https://lh3.googleusercontent.com/7iIEgbS-4qHkEVZuO9qjrgJvjmeaFmdkyyrDB267k3QWAGbpDyHpRNG-uavaZ20EE2VB1wKLHyLtaVn6O7SZXuc"
+    },
+    {
+      "id":63,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/CJby2qcb4fVuHUO9ZSWmGuJpJnc-rNS96ehkbyS6b9O4VVQ8Jd2Z2ED0pYP-4zrsIfnCj8nu1Sz4gzkSdy5iJg",
+      "view_skin":"https://lh3.googleusercontent.com/KPVOGsWxBoijJ0XMQVnxg0WY11TZilvxgf2Z368jKH7I8-ANMbWDdAJyIoiaqlbftqpyMTelTt6u1ZLQSiiSuQ"
+    },
+    {
+      "id":64,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/4rJ52LUbDBwZVhfOJcU1LRSw-qgc2E6vFTc__BHk1jn4aealxQ3FlZ1n-fugGu7qKxp-cGQ5TVN50Q7fo9tgSg",
+      "view_skin":"https://lh3.googleusercontent.com/WH2eNCnBnBO3ZsDfr1cqni950GBdKmCH1L2IPchBRePzQ5R_V1MEkrxx4bKjmMg9avHsF2o--lDAL5M9oME0sA"
+    },
+    {
+      "id":65,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/L5jZlT_vQbXJNiAeZ05ZSOpLIjt_shmgKUSbKPlLcYxiK22wiclG4xN7_i2nnYN5kNhfNNgAmpC4OpxQpics",
+      "view_skin":"https://lh3.googleusercontent.com/Uy187BeHjGuTBJNaKJXcCvsI3JxdWoDW9iX3-OQjSoItuJJybIPb1Bf7vbVXKPJOkeJT6QuCdtHQjHL6WXTY9w"
+    },
+    {
+      "id":66,
+      "name_skin":"seven deadly",
+      "skin_url":"https://lh3.googleusercontent.com/nFqjzBaovqNMVSxs5DT5DH_V2tJgO8_kLYruL7ooxTWDvMOaB_TSAnJZKanx_oMvimXiIzynavD5_vXhZNliTUU",
+      "view_skin":"https://lh3.googleusercontent.com/ZNAmDnlVVYvI00r-NfCPs05xk5FkzGzQUSL3ayyCI-6qW1bCJ8KaZO-3Wux1YxR9Cg0TWeo7rGy2G74diqiO"
+    },
+    {
+      "id":67,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/jT0XPHeJDio5gz_x_V3WS0vaCyMF2M7ine8M2zDps3W5BNciC6ndbMMKJAhXWIgNyX3vMhu2lxFOKOfdSYLvZkc",
+      "view_skin":"https://lh3.googleusercontent.com/9oXneFWaNrCr9PhdT6JyW-vcu7cjh-CnS6i5tnQKLR_OqiHPOv_OXhv9M1P0a8anlEYOB1iQ34nfGNhiVcQP"
+    },
+    {
+      "id":68,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/I8tm7FVNDJnSXjETSW3LprHLspGDcfAe4GBsZmNhv8ZeaGYfY3Nt13stccy_ztBTUaziPFK0UhR0MZOAUgrdeA",
+      "view_skin":"https://lh3.googleusercontent.com/_J-rgvY58AdntL4cY3xU_CLah8wy-9FOV7_Oq2_CFdAXSahPSqQK6ejmEal1sYZNInkEhh7_bgXoYoWsrN5u1Q"
+    },
+    {
+      "id":69,
+      "name_skin":"SEVEN",
+      "skin_url":"https://lh3.googleusercontent.com/Cypqz7650ArfnuMgtSQgEcCMYWtbHymbsvjUlX1UNset-wpoefQxNlb3ce45bRgAM5Qcvn7bR4CMW8K0hE9JHdE",
+      "view_skin":"https://lh3.googleusercontent.com/kMGkT_sP0YrSCLJ5SHBRmy_47SiYVSzFT5I5tHVj1Q0ok7KR8tSbgeN83tzB49ieAADzVP61SpW3ZHRNURzuc3I"
+    },
+    {
+      "id":70,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/fj6pctA9o4VDGd7lzQzbo4Eiexp3h0iXdnQEz2pZfoYO0kiyXzA7ISegIDeFNJIxaGT01lYmiSN956bbzEVHBw",
+      "view_skin":"https://lh3.googleusercontent.com/5bOkOXRhPDcSBAMFQf1fDT58_aTl8IokNmllQYVD8-kbXwaj_59cuDK69sZ5rmi-cKcM0qFeyHI6J6M0QAlrjw"
+    },
+	{
+      "id":71,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/2KWml-j8YMlS0HbK1zyJMPjU967kA-M1_1X9JGGSsEjyGH8k1N3z4lbCcvpfChHBnDjR4uMngkwktWDoKCO_usc",
+      "view_skin":"https://lh3.googleusercontent.com/rNi_06fRJOVStgtX4JAZQfIjkr8BivgtjfWsVS4sAUt99qUutTUF6ib6LuNnzdrG5qfhP_7sqkF_SqnHq8zOtLY"
+    },
+    {
+      "id":72,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/5g7QWfwLGO6AMFRi8K6qN5b9QTdSOqEGe9y0nmyyzCl7awmariQHxWeBdKX32o31IXwkSTXgupFaXf46Bcy9aA",
+      "view_skin":"https://lh3.googleusercontent.com/wcahvgWa1v4Gq9pYCVXTwFpG8JscpOI3CTM9QIH9JKm_JuFQAbisGN6FOKvdZfc5KSeV_afxdJPNla0ca7SL5Q"
+    },
+    {
+      "id":73,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/mTyS22BjOXmlNqhywd3eypjIiXJaw1Qtn6FZM3cDz7bgvJKOKNhqISntOH4hizo_sqALdgObZhelkevHNoRBPw",
+      "view_skin":"https://lh3.googleusercontent.com/0a7lZCmYSjpJJvQNMDBA_jkWooXHw1JUB88u71ghe4lbReRr8QtsynE_55P_1ndANB3oVL_BfzZfEvvRxVblqQ"
+    },
+    {
+      "id":74,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/cMUXwWQzYn8RwCG1EVSwOZUNGMmlPF30PeXSBEw972wUxbpSXUyl7YJGge9kzl5Q95CLBs6x9M0Mqb6f4_vGTA",
+      "view_skin":"https://lh3.googleusercontent.com/0Bzy1GQcK-txw3RLKSb0gte51ctUVjBOvgRU3CVwp8edt0OHmTg_68CQhliJlYSzKVFzYe-TJYSmKppe3Zwzow"
+    },
+    {
+      "id":75,
+      "name_skin":"7 Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/MT2o7tvcPvq9RAWz2rIylnXeTRdgmFu08qVR_zSwklWHSb19dUfrn6kpvggjXhjYkP786CsOtm-w2FAYu-Uk",
+      "view_skin":"https://lh3.googleusercontent.com/eAxVel4TxIOYyzkO9-Ieke4sBWOy5zKzZ3d7gT3ThRqkK8QDIzcQNfKGd-YDy0RJXZcydZ6M2slqvm6ptyPF"
+    },
+    {
+      "id":76,
+      "name_skin":"Deadly Sins",
+      "skin_url":"https://lh3.googleusercontent.com/bEgsSjSLRZNLtllhWSbt_Ju1K5V2SFjLmA8ctapaawpo3aleRZfEWvd-ebB4p7AulD31KMJrI-CUtHoyD64fuA",
+      "view_skin":"https://lh3.googleusercontent.com/FvS96fuRQyZd0HgPdoCqyaLDGaJMjM1sC6SeRlMRGj-Z0nP-ggD7XH9u4O8XKWnvsmHNnlS2x2EK57r-JnmV"
+    },
+    {
+      "id":77,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/w0FBnaqbC5454BJuNjD8fjJgnAsBk0YurTMpDDyAwRx7uETviHFmYf415wrIAtrI0lR_cxMjf3AGQSS3l2dQ",
+      "view_skin":"https://lh3.googleusercontent.com/IZHuRkR0CBGa_tHf5ez5Mbhun_8AZLtpmirAG9UzdQg8Tca3tqQ1rEz2Jdcu8tyGscuINFdIH3OK05Jvh4z_oto"
+    },
+    {
+      "id":78,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/Hv0AQn6y3rpEOskXr63jMrcaupuRFqR8Q1-aBqdhJDYmHhWqwNbH3xXTAGmyZDQ5mzo0edPEuvK_CShIoXt7hlw",
+      "view_skin":"https://lh3.googleusercontent.com/bAm-vUL_emUkm_t1AGq01uCohtyk7-n2tQP-l9FcYbPv4sqfKlnOk6lClqDSowhAIe1AJfll6ymh5SSKhNM1PvY"
+    },
+    {
+      "id":79,
+      "name_skin":"Sins",
+      "skin_url":"https://lh3.googleusercontent.com/vpWE_L88JGb3NI_i_WRrBAHZezEXDALbZhKFaOiE8YfTan6HVPKoM0kLgC4h1c413ynSOkyUoRvbPeNAlO-H9w",
+      "view_skin":"https://lh3.googleusercontent.com/PHLLT5dUGcalPP-UINE4PXK5syzig8AjXCrryq1BGaYaS2tLmofpe2VJO3ldcWwt270JG2DIFViO7DnAsW9qMrA"
+    },
+    {
+      "id":80,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/HA7CcT2AVI-InVkh2VwUP6rveVSAA4pDXcoGIXoQnUt2KV1tOgUMMn2Z0RTFwcL_QF2IBSozh-1TAdC_GFge",
+      "view_skin":"https://lh3.googleusercontent.com/hwO5rpO99pwnu_wHEhtL19ubpkx2Tkh3VZk2etgut-cMQJbBnAGn87iQL32kbtNZGNsyjFsQhmxNX6uxzhi-"
+    },
+    {
+      "id":81,
+      "name_skin":"Seven Deadly sins",
+      "skin_url":"https://lh3.googleusercontent.com/29_E8M0IgGFHsY6NpUApxInauhaM0g-0SNUca0HrrXwn_1Mi7IZD6Jrkpc48f-OTpQezSc8BrYe3CulUweE2",
+      "view_skin":"https://lh3.googleusercontent.com/d7ME_B2dK2pSle5TbU0AkOlEdn_k_xjoq9aCUtQlx88idzbLP2Wjk3Bhr9O8Yl3FbdVkh_dLgMfLvGl7YbQigQ"
+    },
+    {
+      "id":82,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/EkOhdK9-o76LsB6B8Czg3wYTv9TuevHpH2rln0xHeaxQEU9wu8W5bwzzvcpI4IpASBmfccAqw3O1KbBm1lhYoV0",
+      "view_skin":"https://lh3.googleusercontent.com/U2Asvumm3shuqOtKZtxcGlcxnTF7EDrZH2Q4JZR854nivpKyUKQfJtnpsVfTBLXsUUCmFGLGcJGKLA0uPDFqXw"
+    },
+    {
+      "id":83,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/Iaz2jHx1wonL9AX6PkaS3tySIFhIP0Jz4eJjPUUc648suJJ5Y-DHg708fxCnZ6SX3LLoFoUGYhmGbQnQ9ILU9A",
+      "view_skin":"https://lh3.googleusercontent.com/-ewLKokIrwcsY7Ym_pQYbiuYRrUdaLqoWfJXKu5c3b2hLLlNKJ5RMFivEIFImIfyhbS91EyrrCrPacZMllPadqc"
+    },
+    {
+      "id":84,
+      "name_skin":"dedly sins",
+      "skin_url":"https://lh3.googleusercontent.com/UuN0zVs1ahS4s5J0Y5Ar91QN7GX0c-tPS_jxgfD4eMcWuCf4LONxeC_yjM8qasgvlfaCbKI0gimLTQSttzG6Nlxkokv6zrUz-lQQ",
+      "view_skin":"https://lh3.googleusercontent.com/p67EQIoS85ELh4Oe3faqz-G_g1W1fOwHy2wB4lKKHMtzBQgwkFTFmjnFqXaHINfXfzdl9Ag7zncS_W-_18B4V0uIMSXBuDyXx7o"
+    },
+    {
+      "id":85,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/vHXg8YrXJcfzqnTuiNHVWAC9sgJwwuw6szYisC8SAtQSSWrrlUrRvPZxEh2noJwgN1vwamP9xiyK1oSqRLUsHQ",
+      "view_skin":"https://lh3.googleusercontent.com/WNvlKT6liXecqMsYLVzwcw9qmfb1ey13U2H5ctL_fM8pL1iBxGjEluRnwqg9cXMI2ElMxIPY0_V186fuEl9wqmBLI_1tbkVeWRFc"
+    },
+    {
+      "id":86,
+      "name_skin":"Sins",
+      "skin_url":"https://lh3.googleusercontent.com/Lw-HmAintpFcagkBLTe9AtIux2-Qse1JuaCftuITaqHtZvU0gbAjGr_Tmz4fWVSfqr8BHMW8pkA3UQWd4TXlTfBC8ov_whlN67kV",
+      "view_skin":"https://lh3.googleusercontent.com/hxKX7nH7WJuazli_RrLr_GEhhmLVULFSmg-Q6DEc-zwmQ9X29x696SYPBGtzOUhIwSPSr2G31NRYk3u2UmxuWp6zVLMDQxfXxRA"
+    },
+    {
+      "id":87,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/VMp4op4LHcY2tpvUM5qEGoUlBzL_vtapsL3hm63ezFcBHrc6DL1kzbJmVXhgfgk87ROw--4cu9yKvngx2JHIgne5ftOVXp8uAA",
+      "view_skin":"https://lh3.googleusercontent.com/-aKm-ddps8GpRtQNdhXgWqJhexRutX9uOy1YHIK_3VSb3om1KltPnkHDilrNjr18sA2IIrJbM5OnxslG54hBv6xXG4540MwK_g"
+    },
+    {
+      "id":88,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/QH3h1kNcOeY9Vd5kmiiyRcE6yQ-E87eVVCqMm6mZwLGxooTjM96JZPn9nMzQfrC8k1fOzRbKqNINMOIg2qyIXuMbJ_Qvf0MUAd9k",
+      "view_skin":"https://lh3.googleusercontent.com/-8GkVEC5od9rb5tt00QUSyCz3DGBKRUaX_qkhxvQ0QIKj8BTixJ5JXsvu6fdoUFAUufu63fn8NEm0GpXzfVTjBU5dS_ODdvejA"
+    },
+    {
+      "id":89,
+      "name_skin":"Sins",
+      "skin_url":"https://lh3.googleusercontent.com/455v0Es4UHmsmPRRmSFG5UPTD5csoF1stBXIi-c_0lQNpIDmaEokn5xZ5q9uu7_BzDUbb1rRRiGzCQoHrKnaEil4UOs9Rkgj_e4",
+      "view_skin":"https://lh3.googleusercontent.com/i6D-1t7lOlj9PZCJx2nBVVky2Q1o5A2w6CXfF29elkawx92L5ETcrzcByPsVcXY2NfOxwvamxHEpxiJjyALuRQ9FdgwHFTkPHLA"
+    },
+    {
+      "id":90,
+      "name_skin":"sins",
+      "skin_url":"https://lh3.googleusercontent.com/piq4SVx7raKkNBulajvXqc-Bijtq9M8yoIXvhkbdTWB_TVHT3nocwvDLmLc-rl_9EJO3q4pY5-34QQEiyO0za-eLuj58y3eb6w",
+      "view_skin":"https://lh3.googleusercontent.com/6qNlLr2lRbmIXKLXQe2-YsnTBDEVp-WKJLlBjJ_UbAKCveXaTDLlBasinO-Xp3MtzmWjmZ-dq_pRZyrytouY8NwdT5YK-wUqqA"
+    },
+    {
+      "id":91,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/VCG7ayn8f4t1VdwUUu2UqJfg-B7bFFEN8NVkAtW2k54daMOH_M_FPCO52ZcuWPMTQ1NSUvTX3fj_6MWaD0EYsn24o91Y5YHkbg",
+      "view_skin":"https://lh3.googleusercontent.com/E7W4iKrWQOIdcBM8jHzR0KFchywz_Fdn-OUOEYT3DOF12QjHq3eqaSUBcJZWe6p7iIHDKqUEL4V7HsaljInNJBktMWulvaxrl4BB"
+    },
+    {
+      "id":92,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/Jk-3P4CSmy22iOgfNU21Esy5NKMMuvXOsnoNxAEtn2DvhqX_EvC4AOkz0w92_KoHhmI3TxfN676lt-rtL-14",
+      "view_skin":"https://lh3.googleusercontent.com/sGwNIrj-REOw5AMi5evQbUIi2C2PdxdDTy1ywABOUdpHVwR3Q_g-3QoGcQwwTAG24W47LEqSpm9Cg9pzkj_C4A"
+    },
+    {
+      "id":93,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/Sakobh4VVWRSf6uCerEDN9bZSVo5EmGoXY3zUFHDlFryhZaBpqZUsbMmZwsvuhwH5Xa41l_aoa0kv1xhZZWUlCmBKM53IBbEz5Y",
+      "view_skin":"https://lh3.googleusercontent.com/_UHLwQfYWriyv-XxuZ05rUCNeMhb5fnZUM71S_u-m_1t9cKb9teeQlB3Lx5ZO6CFuqjZ6xaMSwJFu94T4MbCLigntI23o5_pQ58"
+    },
+    {
+      "id":94,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/aNGvRxj6J4DzhCVBvLNPohPJCwQ5dqF-QBY5untA_PlZ3_GCS7iyiHa9NWsexBHMkm-UgIgNyYEB0R8HC6BEtK14_WxOUCclbNg",
+      "view_skin":"https://lh3.googleusercontent.com/vIYZShs0d9Y6xvzFmtrEtWt8nXJLmfcUIF5nGEa-yhbAfDGFr1UBPtZA7006STvNwc_vCMMkXNAqRZMRCSVXTf6MjoTv_jwnuqQ"
+    },
+    {
+      "id":95,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/NV90t2ZH7xUmTaW1MPbRYaXgB2tDlC9P7WMd-4Perpt6iHmT8WDpfPMgVmoqVwmxMKVpCHfX0O9ZCQWiGv89IGGNFTV9b_4ZB64",
+      "view_skin":"https://lh3.googleusercontent.com/g_cX1tv_Y0fzsp6501qKxJZzgbSflqiBvQwmigFCIyw__LxcnRymcpod4i3iuywSnevZz0qbYfpELZQZAnl_xomuNPHxjcm3lqA"
+    },
+    {
+      "id":96,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/GT07voIm9czhpYrXYDwd02aAlP3IprizELo-bLpU12_1hcWjjdPElK9b5FVrZFaT49dY2LrzD5b5uM0IA6XkWJPQHVSOIU6YwQ",
+      "view_skin":"https://lh3.googleusercontent.com/KqznVRxl-WJH84yFaAH-3uj2Vcs6tOHVnm1wztOoJ_QtofcDnXqqlj-5IB-7pnaH1uFnsf5YxtJWKeNJQfQEn9Lb8B-xYvF-1MY"
+    },
+    {
+      "id":97,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/OuIXJpJLRl8M-bx6VBvsVzU1dScb4zh0th5t-8-kDmwPoHma44reCQJ9QykwsYxsLCbLfX2AoSZSuZKteX10ckDXk9CT0wYr6g",
+      "view_skin":"https://lh3.googleusercontent.com/zQ3YVpCrdRpy9ml3RwiOQvftznEdkRF_GUykWc23HS3f69uU5NSj4TUnYR_lYKsiuSA618F7jxV2FFSIgH-GiBwUELOhGFSw0Iil"
+    },
+    {
+      "id":98,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/93wIgNwCvDWp6XkFuZJFike1xY0oXUawtnuMqLHDYkzoRYE2g8orHs2jpEAZk5QlIE-l5b5Lb037zvuLWLolTtUBkU4eYKw7HLY",
+      "view_skin":"https://lh3.googleusercontent.com/NrjHQHmefY-Ez0NSssY8y7MAAm0i7ZEu1YiqYDDqbtmuGT5T9PKgfYnlHPCbm1n91UM6_gG6WAe1r6CsgdTu1jhUxd98qRj4ZBk"
+    },
+    {
+      "id":99,
+      "name_skin":"seven",
+      "skin_url":"https://lh3.googleusercontent.com/KRP12dGnSeRrbJVzyrRApEIpx35dCXs6014RGJytOEM1KJcFycOGhr26tTKUX-328BbQ2T01hpdh2NijnI70Pg1uvnd-06gtC0E",
+      "view_skin":"https://lh3.googleusercontent.com/taNTFxTO-ophz5-4rntCU_G5dSVzWlsQzp9hNxqngj1oGV52AgM0biDPb9KUjkR6FLXepL7BTDWW9fiD0y8KmhLopnZDfBcBSMc"
+    },
+    {
+      "id":100,
+      "name_skin":"Seven",
+      "skin_url":"https://lh3.googleusercontent.com/1d6L46CZH0fyR1Kyrno1V6mK3-wKNXnrYaATDlQd_LyQdGYwZ9Pg_nE6r8YSF3IshCiASxP_hl8dpdsiBOHfgA",
+      "view_skin":"https://lh3.googleusercontent.com/fUxJsLlMabQHVVy-y0D-H84JKKdTzI3zAfh5-LA4zlwPuRmBT4T0ddqQ1OJODslO36kc5IhK6TktzMhOg5AHiA"
     }
   ],
   "Addons":
   [
     {
       "id":1,
-      "name_add":"Cat Plush",
-      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
-      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
-      "view_add":"https://play-lh.googleusercontent.com/ahJtMe0vfOlAu1XJVQ6rcaGrQBgtrEZQefHy7SXB7jpijKhu1Kkox90XDuH8RmcBOXNn=w240-h480-rw",
+      "name_add":"Vehicles",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/New%20folder.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
       "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
     }
   ],
@@ -144,9 +670,9 @@
   [
     {
       "id":1,
-      "name_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "name_map":"Mushy Island",
+      "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
       "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
     }
   ]
