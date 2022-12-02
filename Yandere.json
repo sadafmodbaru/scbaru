@@ -1,0 +1,443 @@
+{
+  "Ads": 
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Ayano Aishi Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/29EoNR2x3cjwDuJ4t0cF848vrvwhSCL2SsYo9ztoBzksdcxL1Q0AzgqhyIxN9xKehV0HBeuR8f2L5XA0W7nEKy9-Uj_TIf5mbRQ",
+      "view_skin":"https://lh3.googleusercontent.com/VoV6Un5LhGUqywkuCcxHy0mr82Xje4Cyp31bVzxERjm_FtShHWp2B9dgyfbUHaS8mEAR94u5e5ZSznTfuHrJcARZmbZqunvyb3tX"
+    },
+    {
+      "id":2,
+      "name_skin":"Himiko Toga",
+      "skin_url":"https://lh3.googleusercontent.com/JHG1jkYs1oNwkeJNaLJCMExGyLrjqLphmzAsDq-r4p0mn_pt0u-U24QIVzE0m4vRY1ukyTQk6XjhZ-AONIpQ8Q07near57LGSdw",
+      "view_skin":"https://lh3.googleusercontent.com/R9tK0oisMeRTfY3TEQ3J2EZD5s8x96QCIguMVW9hKJ5ytZUnlMa97Nhf3sjY5dNzNi2OBf49jnGBt0iSGwL8vFcCYK8oRb2OuyY"
+    },
+    {
+      "id":3,
+      "name_skin":"simmy yandere",
+      "skin_url":"https://lh3.googleusercontent.com/qPEyRsQUmsbsVrnaM1s87yMBnqSTsS8g6UW-hmtT_b3WGFzttjs6fNViEnj_et_Ft0QEy5WxbJs6ecp_RD6-oA",
+      "view_skin":"https://lh3.googleusercontent.com/vGRaF0Jdr1aBLgdmedR_u64nLxbgomaHLDhVxeOpWRc53Fj8Ye__IxStm-nQsNCQqKpfEMw8uD0yGJm6iA6wlw"
+    },
+    {
+      "id":4,
+      "name_skin":"Osana Najimi",
+      "skin_url":"https://lh3.googleusercontent.com/TVvQUn9ZVdvVB1yX1j3BnXukPzxMsq3fbh-iGwQdq-w2RHxDtxSKArOx8LbQ172AA3BpG6TbjjVrtV0jx6d3NLp9Jjkq1Gfy6V--",
+      "view_skin":"https://lh3.googleusercontent.com/u-Vyw5OEJG8LBhAnm5-KpP1qgVl1ZT4mI5Y70k2tlmRhL0wM6reRNztgrGZGMGWbUZ4lwATpYCg-GsykFzv3sUyp6Q-q2OrY8w"
+    },
+    {
+      "id":5,
+      "name_skin":"simmy yandere",
+      "skin_url":"https://lh3.googleusercontent.com/jVAWDF6PJGdtI7HQPlPmyhyVJs6XIu6g_M8f6NYJ2tSq2tBFlOapF7AZe9Sx7eefmV4n8TrgPfZcNnOjI21e",
+      "view_skin":"https://lh3.googleusercontent.com/hxGBUf2wXZD884GzuxpHHXuQDEXzrYc1J4_4JTyq_iqdyrZw3PmynkTRaYo8hblykhtRDODZTDCEe8Trfc0bY4k"
+    },
+    {
+      "id":6,
+      "name_skin":"Kairon yandere",
+      "skin_url":"https://lh3.googleusercontent.com/o2yKgF1J_gNGG2mcX1u2dc2fsugEOc88bOuA_d2xow9hML1PETqBjnPpQRnoVgDk00j2-dFvM3aXWDnB5eCm3w",
+      "view_skin":"https://lh3.googleusercontent.com/2NncHT2vEhx_EKHNIrK04g-NYBj52LsUpPkem-tbwD-2CFlDoZMAU0y1eJCRP1lFIK2vK0ji0-ve5FJFoJ_p"
+    },
+    {
+      "id":7,
+      "name_skin":"kairon yandere",
+      "skin_url":"https://lh3.googleusercontent.com/xL7bJPoBArqwmWRR_xCKJuYIJ-7KD3TNnrmYSU2p_rm1nxmvQb3PsjZKHg5sKRjNjo9D-7KXccuuvi8WDR20RA",
+      "view_skin":"https://lh3.googleusercontent.com/CSqx7wV7o7uDdCG2BDgusSp_UmjawlTeaX2M266HB88fXovIE4YxVplCuNpSSm1uoN0xOIwtshoy4KWKewdpZg"
+    },
+    {
+      "id":8,
+      "name_skin":"Senpai Chan Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/SU7IgoXnlKOr4aplvdy0L1wbBlbW5uRG93m8-_n33-wAvwCUm2m15UOZTGTKxzwOgVmctlcsztgzh1U5GdXd8g",
+      "view_skin":"https://lh3.googleusercontent.com/I_Nv0AEl8oO3cu3Cg0FVgt-XePMAGHl7S_o1lTIWb8DSgpXFcA4zHLNNccBDVVktacJfIzQ1b3nuh_ewDdOq3g"
+    },
+    {
+      "id":9,
+      "name_skin":"Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/K3vPm3h0PRpnKtgRMnH4k108PFgMxpewhTsTAne7TVEO328CFI7mSMYbXb6E7phRBdNKc0uVP7yT3cal6SagmamYjbW3ubfGaA",
+      "view_skin":"https://lh3.googleusercontent.com/Ssjhsxjt0-16le-5nEXkSAZPNWv_5fNpDql0LeUGHIpHoSr6nE4bO81jHO5ei5iJ0tFrtxd1keCSRsWDjxkr0t4JCiqAfwXKKOs"
+    },
+    {
+      "id":10,
+      "name_skin":"Yandere chan",
+      "skin_url":"https://lh3.googleusercontent.com/UDsEDIvimxjkKof3wvOVdH4Ik4wuDjDNHmXORcsDB7dwwpdDR0zxJLOu3HMVrC3x3_lXDlPnoT_-NUffGsrGZw",
+      "view_skin":"https://lh3.googleusercontent.com/zLecX3dptngvByD0iqkH9WowomMNf0wgWUgitMHsRzCFv4297M7ee7l_jjRFutqAuzp0-aYUiuzCKjbqDAF0"
+    },
+    {
+      "id":11,
+      "name_skin":"Simmy Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/MIqQk2XKawHP5_SBfdp3gZ2tmMpv3WfV87hlVwgPScXz5-Oo6aMsI5jtMq_HU-TU4FnO1ft_XYxipgf-l3n4",
+      "view_skin":"https://lh3.googleusercontent.com/bFMoAxm02ElKj_FsxY2_VLSfJcb3w-188K05eek7-8fltg3X7H6aSRISIS7lglmZal6MBWDBKmuDbhhrJp5crXg"
+    },
+    {
+      "id":12,
+      "name_skin":"Bloody yandere chan yandere",
+      "skin_url":"https://lh3.googleusercontent.com/ol2sR2NiB7mZUuRYEfip2JBojARUPSOcMgbTBuAAd-mYRmPuFbkII24LIB4u5s0F_M-z-Hq32XnsVTUHXofv5CFjK6HPsQfZeIxj",
+      "view_skin":"https://lh3.googleusercontent.com/bCAfTmR03PAZ_veqW-1WGavT89ImTH4HR8xq2wRcU26UkJ2phoSvXLdsayCnylXgoOideAZoDB-TLn7W_X8C1Jbwa3TT9d3GCnyA"
+    },
+    {
+      "id":13,
+      "name_skin":"Oka Ruto Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/-KknpFTMYqyEEdlw0IBOwHS8-dulM9mpQoRvbtkE08n1O2qYpRk7k8eNtOHBqlsY7v6EQpUTTEDdaw4Z60Xy6A",
+      "view_skin":"https://lh3.googleusercontent.com/PO9B7SzVwMa6VF6rshEyd31s2l0m7qg5I6dFTd5TpRH_oTuX5kvtN5FlRcGBr3XrJtM9pYsCIay0FCqEfGwM9yc"
+    },
+    {
+      "id":14,
+      "name_skin":"Yandere Girl",
+      "skin_url":"https://lh3.googleusercontent.com/YFb5RfkIo5F4_nFZnl-VwsuCQldWnM7YMIkcgipdXmfdvu_sdSm_Ppt7tePo_Oylxqw4NE6y8A_TMFzCmlBVKA",
+      "view_skin":"https://lh3.googleusercontent.com/Ym4-JyfpCT5gJKzZV6vS5m8xAQm9x_wS5jtxvdscks7-OB8cf5j3zLeg_QfEZSk9o9FGflfzakFS3f01_9n0Vg"
+    },
+    {
+      "id":15,
+      "name_skin":"yandere high school beautiful",
+      "skin_url":"https://lh3.googleusercontent.com/tKUYBkbAH_C8mYXLQr4jUTg36O7h8l3Ff9iX-7EmfN63w9f_QOyL64PoGnutPomKrOaGmR_kawoJs33b_-F-Rw",
+      "view_skin":"https://lh3.googleusercontent.com/Tuf3IWmp4CLeFaV6hAK0Heu3wxufExRsbGe1miuacla7uoqqP59T86eWzK2bzPmGCPU9ABCEROgVzXE71BxNlw"
+    },
+    {
+      "id":16,
+      "name_skin":"Nemesis chan Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/cstk5Hnm2U0SxUTkgvfQ_Sg_hKWe9QUH2IHPUWW1kr6ETa_ON9XJX_U7SB2DSrCummzZIfRLraIwKcwaISOElQ",
+      "view_skin":"https://lh3.googleusercontent.com/cZvjcNT5q9yGS4-xnIsHBMOcwqUkW84pDxGHeam7vDRo88m-3tqKaWuJ2M-loslIm_rCsrJZ6aJELIRKt_EXkA"
+    },
+    {
+      "id":17,
+      "name_skin":"Mirai Nikki",
+      "skin_url":"https://lh3.googleusercontent.com/AKv72mon0r4dKImqLKMCWFt-L1v4N7QdOGJvuXZkIinmWgrHYiK1MA7EpJvi63_38woucwdrQmoeX1ECunnes6z7deOTrbG6a0D_",
+      "view_skin":"https://lh3.googleusercontent.com/xJL7dVEvpLI0sFEInMAZtJcnck_i_wVADA8R1olTY7Ev77-gfagPQALIfEKz9Mc7kTp4cBS3ADFTQPDr4CY4pFMfBbcw_qpAnqs"
+    },
+    {
+      "id":18,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/OhbANF6d_fGvVowjlyBJ2uJxv8IeozQEGOiPJz1KGUokWofG6OGWYo0rnuTWIpuzAjfXdV_HcDf15ZfQciBZ",
+      "view_skin":"https://lh3.googleusercontent.com/OMVEPCGNlgK9H0ZcZ4hPg-LBXXmOo1y_d77Amaa7vLRCODFloiDsswiyoR4Mz8Ek5VlmuqNoqBPu_HoN7eDH1w"
+    },
+    {
+      "id":19,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/FWuYZyWZcPKs5g2a3x6IzAU_gPHuT4YJ-d__5ymm5eKKq8w95lhMvT5PeuQJS6xiEAh4ccIdUFa42nUvaLKgCA",
+      "view_skin":"https://lh3.googleusercontent.com/u2j1BtMCGT_7HL9rMaMrQXF26S-1USbq54j97SjhPONj0HA6EFVAV4dNe0WR5HLhud1JdAckQofIe7GxEJxI"
+    },
+    {
+      "id":20,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/lOG_3xnFYELKTs3gI3ZKRZVkmhJHdPfFw11frFcJBeQNB8T5Pejx-TvFUw3vq-vZtFs4VynzfBWVQ2oidQNxHNU",
+      "view_skin":"https://lh3.googleusercontent.com/-GsN5PeDOL5TwLwT3C-JLo8GJEMMdA4Z4PS8D7Vtj2XAskIng_v2JXphtLibf7mhq0X2GeoMB9c8ZM5gQXG9fA"
+    },
+    {
+      "id":21,
+      "name_skin":"Among Us Ayano Aishi Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/3AtRJVQaEB6bhac_ghMIH82WVZh4vY2dmWQcc4ohwWnio8z5cAzJbgLLgSMEPhNWsQIgAG2xgrDXdrgzNgyOEG5vGTNpnZVZmpo",
+      "view_skin":"https://lh3.googleusercontent.com/4e2HIcxqnHz-30j9dVDwRIcJB8rQLUkIBWKeF6ds0QuDe7kaO1wPeImnPv0XkogNfTUIQcx_cW_vknSNhf6ya7o16CYsAbEbiTg"
+    },
+    {
+      "id":22,
+      "name_skin":"Osana Najimi Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/MGawXQrXda7xxL2Pnv1xacH8Hr6CglkDnhQq_Lnonr3XhhEEQSW5yqnrBqnDIDDCcpMLNAO1hXWLKySZR8DUxg",
+      "view_skin":"https://lh3.googleusercontent.com/-INdG40b3deoH8VMFJlo9a6QEv5ikHRm5m0XRn2WZ1QL7StoWb3k57Pr_ocdO-6MfvYdbBizjijX5-d03yZTov4"
+    },
+    {
+      "id":23,
+      "name_skin":"Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/-bkInoPDEmA0efmr3ziM0udMZYVRvCyUkyBd1InhPjhbU6cC0zjAV9mynx3MlM4GAQDQblNJaWlqxWICw2S9Tvo",
+      "view_skin":"https://lh3.googleusercontent.com/CGclh8staVMykU_wDAwXpnw_fRa6upz6cWYUqqXcOYgZblLksr5q7yKD1jRFB75TBCx5RN42_5CqoJx-hSl4"
+    },
+    {
+      "id":24,
+      "name_skin":"Wolf girl Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/uQdz47hhoC0FXsETACzY98SV1lOnDl2GKFfly6gE9EDp95YIQCv_VjajUUMWyyU5zztqvhoYm9hI2MSyoaVJ",
+      "view_skin":"https://lh3.googleusercontent.com/rvJvsXZlFUkNWEsLQ7YX7nDgNsEWK8uw_Dxjte9fg5L8GkC4DNkAv3GtO-8-DVEUspz3BZLSgLCQ-Ue_WVjW"
+    },
+    {
+      "id":25,
+      "name_skin":"Ayano Aishi",
+      "skin_url":"https://lh3.googleusercontent.com/c5UfebdwmTfkWyyjnpexxdtcaxHYjHf93UhkBqdMIHeir98ZMtZ9hWLHDyQFGVcrSyIOr9zQuulLSewc7WUR",
+      "view_skin":"https://lh3.googleusercontent.com/57Oa9UTZQ0ZKmUnvNeH89yP4CHHcPpyE8d-QUZbilYlKA-WsGkcwMvyxz0Xk62lHKDYbwcCHhaXZ2NRTv_0_nQ"
+    },
+    {
+      "id":26,
+      "name_skin":"Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/kfHaKr84pwSVaiylSBDsSU1PoyQXveIzFUjLpWxaqlZyGEAGY5M6PTPaZzN3UmvwUU8cMZQq3YPOWBGWQ7cwsH0",
+      "view_skin":"https://lh3.googleusercontent.com/fS5nJtfnPT0_J-TCrO-MasF85gEbXh-3xviaOmEx6v8ZRSLOL6G6GwfxeOu9uqg4G0LUuSOq4u9Y0bJhw8QcAuk"
+    },
+    {
+      "id":27,
+      "name_skin":"Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/Ks-v7-i2SFsRcZBi6hTFlSBLT1S3t0KykXIwZu7YjJV-abXrkgcPAeCiVja4_txagq_OH4pbxbeYpzYCFJ7opA",
+      "view_skin":"https://lh3.googleusercontent.com/_lAVs4fzgAyiZ1AvSnawCdKbIM8yf7_osl5D_wy2Zi9xY7_spwd5l4GgQ3aNKpLFlZjK0Ru1TAb0EA-6OkSmng"
+    },
+    {
+      "id":28,
+      "name_skin":"Rika Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/HG3r9Ld2tI3qQzjigekuOIEL7EJBO-eSQN2XXzLT8sLDk01JqBh0ap_ogWsDZvJoa5RwN1n0aY234iwkGACf",
+      "view_skin":"https://lh3.googleusercontent.com/_RUeiaW_1QJ3vikil6Oew1gUD60WMI3oy0L5pfTOwoV6i6J5LXiAoR9IcaAaur61FQWejPxDYbNcNy4OnTTSftg"
+    },
+    {
+      "id":29,
+      "name_skin":"Rose yandere",
+      "skin_url":"https://lh3.googleusercontent.com/OBI_oqC4ZSNlTpV2WE-yGPX98YF4vIa_cEjfbHgD-wVgLupqaEuUJzF4tm5Og01O3c_eV_NNqhkjoZcB7IdO",
+      "view_skin":"https://lh3.googleusercontent.com/v-KZ5SIdW-UoIhkgVBvQ3g4izLxI9Ntj_vOTumBlICPpdYlJfvq2ntXfyPcF-ywmclNoEgqHqTSlf8fhQBQSRg"
+    },
+    {
+      "id":30,
+      "name_skin":"Mimika Chan Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/NiwjCofINrM6im5UXcMaEgIp-8KTTNDXKZm_gMHDWOI_YGF_rfUghZxAxqxRdRV1_LwtM85YXgd7VSMqJe4AnSW6CEYnRRtQTX8",
+      "view_skin":"https://lh3.googleusercontent.com/yQiX2HfDsLLYxPgKl01IEuGhnPm2fQnTCUeVF7K1D6Xi1zVC5Lp6hF0PG13u3FMKP8zBHD8lRPybAuhZXqhAbtoTN4eb2dYPoSVH"
+    },
+    {
+      "id":31,
+      "name_skin":"yandere high",
+      "skin_url":"https://lh3.googleusercontent.com/EXelNtWUUbKQVgfO1aCdE6YGRhe1k_hnGZKHO3bWa2tcheqT6azs7IUuVUCqWm21UvYVrm-0Im0YLm-k0lPASHkIVjAE1rl4hw",
+      "view_skin":"https://lh3.googleusercontent.com/SeBnpj3UErFnfKX5nh_TQViyaEAgt_46hhhQWcHcJm7cRFl65s5qqqxpiWjrgjJEnuECp6dKxNNSbQV4_-rVo6TYTn0MGvKnJ_Rc"
+    },
+    {
+      "id":32,
+      "name_skin":"Kimmy yandere",
+      "skin_url":"https://lh3.googleusercontent.com/iXO_7LaPQ4yTFgUA6o0DVPzUu851vocVl13NrbWw2UD6SeddvrB7WYilhd0OQU5iJDrW8QnA1LofunK6BVvvr1hXZCFX87OBhw",
+      "view_skin":"https://lh3.googleusercontent.com/aUe-Agz-7GCEzImt-DFsGwam9XoGaoIS9ewxMwcBZBmqEAftPqynl_iXRHxgmdLMrzlFfNN12w79dqknkZtsnovx61Ykk4L6Y8E"
+    },
+    {
+      "id":33,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/peHoj7bBQbGMvxNsHqKeOan9ZUcoK9lNuMnyaYmj-DXWGgbOC_ahmCesa6TFFtTSZzkTbAw1u_8lacPdw_uJ4MNuM6BNRL-3iWQ",
+      "view_skin":"https://lh3.googleusercontent.com/sxlalCUQPrIWQpgUIq9y1NIEQAFyPmlbriPLsjTYjL8B4U8J8CSteSfAspKzuYAc0Burz_1P_xq2_VccF_s4RuYAz5lvUFG94Q"
+    },
+    {
+      "id":34,
+      "name_skin":"pretty",
+      "skin_url":"https://lh3.googleusercontent.com/Kkyc_C6WbDMMV4rY2cegFyWdb_F6f5nfDAvfsqYz1P_syi0U8QwjColOdBYQzSIZNl05FMdKMWelJp6bMh_KO-fL5Rix0Ogtu5I",
+      "view_skin":"https://lh3.googleusercontent.com/MZNf_uCcVVDhJhX1EGb6lCPle25bS2qGOhtx3Df6jy7ymYFLthxBSW6t2Ku3XdCFRVqr2JV_5WH7iKU6YBP7IIWAAcaWaMuC4Tc"
+    },
+    {
+      "id":35,
+      "name_skin":"Asen Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/3JEqXwwt3uxlksFnucPTYXMDVGgxGnoLtegwZ4xhSd8-bUNImnrxY259tWiRRD4YUbH36DUn51f3kW6EcQ-_QclXn162vB-zVnmQ",
+      "view_skin":"https://lh3.googleusercontent.com/DEQc6OIFR0fUv1ZgTtA2Yd8GEldPe2mOzlQx7FKjSWYNaWl5nHNyetdd4py7ccmEgChPzByILJ4OSN39uP6T1SXYyokDWav4djs"
+    },
+    {
+      "id":36,
+      "name_skin":"Asen Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/yoQTj1_v6UiB4ga4kwMw6_VWiAcMYylTJoTh66qv5bEz7mjRzTsqq4-Fed0sH4GFkZw_3M66ssVinWapYe-7wuaa08a4DWSgZWQ",
+      "view_skin":"https://lh3.googleusercontent.com/b5e-oZMXeaGmHKb-EDhebMtKgZD0gDAWjUPaDW3Nbt0fV1yaLsRTZrFh2E4JyJMMSpXbxzND9l1X5rTu_GcJDk7QZNHTzZ4ieQ"
+    },
+    {
+      "id":37,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/v93S3-HtxC9lcwchaz_Bpw3oMTSa4lPo_QL2AEKs6KkW3NAnd145FmurrV5j7AbvSpGj-TYjK8xlQuk1f6dH5A",
+      "view_skin":"https://lh3.googleusercontent.com/OGxcz6Kp4RRz9hw8fuOG4hX_CJBIymm8oBNlt7kpIJlm35XGIVvrul0P9a2PbQkqubbjmatF17WkLFipcXQfPj7OmkxfmXujVQq5"
+    },
+    {
+      "id":38,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/9c-GO6QlWyXI_dQAJLlFW4RpCJeo2-8-4qtljoN_32XE8AuILizhXZOwDL_wghNlikOkbTvkZdDj4utV1IFFMwvl72cHAD-ofazt",
+      "view_skin":"https://lh3.googleusercontent.com/WLJ5kdPiKSBgjpTHG_1HyEDjII7esPEdproz5D19dE8dGQTPO20x1joEh562B2vt2iRStfRT_Fh82HduxbutFIP8ImeSymyf6fE"
+    },
+    {
+      "id":39,
+      "name_skin":"Yandere Bloody",
+      "skin_url":"https://lh3.googleusercontent.com/odhbo52MW9P0_p8fyL2L7We5LS7AMEqYyHWvAY1vhIGT15uT_N5AXCwFzdl9KoImidtd3O01yaNHwR2Nd8UfgEqQIElgGtNZb9w",
+      "view_skin":"https://lh3.googleusercontent.com/NouArBO4rLShNUdWgGZCz-paawxjTz7il4vJZjUV8l8xgNZQsiC13OlB73KcHtJyYhSELcPb32rAlFuWxpcQ1L7i4IqSRXZ2Cv0"
+    },
+    {
+      "id":40,
+      "name_skin":"Little kelly yandere",
+      "skin_url":"https://lh3.googleusercontent.com/oRS3KLuFCEWU0heS8U9dhLnsCJyTUXv_YU5UPtajy6ppYIS_BaHvsTeELTWQhPwSkamuSVOs4v34OIgpXav6N5XrCV6yQAatFB8",
+      "view_skin":"https://lh3.googleusercontent.com/_JLUUIVAv_MRDyQDMcWx3H_F07Fw8WFK0j5VpQr500gyDVbmuZIXLUZD47gasuvwG556L3Zb8oG__wC-DdKTCrz8R-eTj6rVjw"
+    },
+    {
+      "id":41,
+      "name_skin":"YANDERE GURA",
+      "skin_url":"https://lh3.googleusercontent.com/kp6k0ZHuJfZU428wARMKVy9rA-zg78CbIfMzTDS3cz5a6g5tBkTu5IdR4a25rTrpHCxxm36XLZv77x8mTLnPHxt6-FYSL5bPMRGR",
+      "view_skin":"https://lh3.googleusercontent.com/TAPotcmbre7FEIDOqqXQ67-8Huypx9NAS8ezRW1a5KMp68MUTr9oP6-VlpmW7fAH08f3NRBoOu0CPIJnbsCv5iq5OCRxv1wT8A"
+    },
+    {
+      "id":42,
+      "name_skin":"Evie",
+      "skin_url":"https://lh3.googleusercontent.com/ct3HSl66_IJW3F5h1BKmcF5FcMQgsn8EYfSI4h4oP-phG_ocBwipvt6q69_aYJmgvRhoNcpcFLu4pZv8dkBCF9J0akyxcBdudhFy",
+      "view_skin":"https://lh3.googleusercontent.com/e0R7O_Aq7-f_bKIvgjSQE7xajZVy7ZnFGXL8avAq19Hz8Uik0ul2WbEQEZzVnWWhtXmJvQq9q-YtKYB6-3BBcAgVxPehaVfpeQ"
+    },
+    {
+      "id":43,
+      "name_skin":"Little carly Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/Vt4-VMZFkmt518BM4gXH7dBpglT7q7Rp1z_4wj8BYiynLAB6LW3uXw0x0493E2o7syuKA1gq7XXmltdQtedqN8OPZgVuB1d8R8o",
+      "view_skin":"https://lh3.googleusercontent.com/6YXS_pyL_GT8qIjQa7h_IL-_6JgZ7n2GIge7YGx5I__D7HnUIUVIzyiu06BbOqeKqsZSQKHwrDxgiZ-poyQxvFOoKGviC_K_BA"
+    },
+    {
+      "id":44,
+      "name_skin":"Little kelly yandere",
+      "skin_url":"https://lh3.googleusercontent.com/TFLIZF6kzHqh4A05gxvCKpnqE9_CRvb4zAee8VlbxRx3wq-ypzBJuFrKZF1z3h4ZA141hTJK-JJvDf5wlkTahriWrzxsy9FOnWW2",
+      "view_skin":"https://lh3.googleusercontent.com/ZqHgsJdy51CyCXldE7bwfFhftCcD_VHglEIjVTsrfBidKG14pVy5WkZ7lbVuXcxdjS7--T1qursokUROyvjTiHMAKN4ChntsgCs"
+    },
+    {
+      "id":45,
+      "name_skin":"Black Yandere Blood",
+      "skin_url":"https://lh3.googleusercontent.com/OXDRqXBZ01qVGiDkSB_6-tO8ZZAq3MT_T7aGLLv9WviFmUXstkA-caUNioNJTvkJ36CMHi7jA2tFtyfgdIx-099gD-y-Tv431g",
+      "view_skin":"https://lh3.googleusercontent.com/xW6TGCBATsDFkeOTMOEmm_S4iTgxGH2oeqm4yTSaR9cPxnK9m-vuk99ymCMyArvlafYHSoNt_gNxJt2gfdI7w9zZxhYK_5QyYp8"
+    },
+    {
+      "id":46,
+      "name_skin":"yandere ribelle",
+      "skin_url":"https://lh3.googleusercontent.com/HmTFUZvPSGobB6gAnhhECfHic1SgSPfHdRBO6XdESPiHNXFfV006U6AwyHRsYDKB285XMgk2X57PUQkqyUMqGACg2t191L3Krps",
+      "view_skin":"https://lh3.googleusercontent.com/-fb1cfmKoBi7piCT6QjnBnl8_5D7YgM5qIIC0SXsdVxy1dNnIlzs07dKbFQQzeWaD7f61qLc7y8UPFQYDjdoeeKN1bYk-alc4w"
+    },
+    {
+      "id":47,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/aWkkBNW-Cdb6ZI4Zla1bsj8DDXJ1kWYHGpr3HF4D88ZMiD_0ukX6L6BSZe2V5nOA9PNx2fdzb8cAvvpBSDTwFkaDI6TytgmEHT4",
+      "view_skin":"https://lh3.googleusercontent.com/H1Wm0-o9cN-PT8eHv_om8lPYK30MkPCHqy_I2sJTef26hdtoeELQWV3z8UscPST_W7f4s3Scq8T85HeWBfQBNtGX9HryokjsMA"
+    },
+    {
+      "id":48,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/shdNLZLtOtiitEJBYOG2eMF2gHdj0cEihXBR1AClGEJv4SKa-jB-Co8LBHqBb_9WZA-Sj-GE11OOsadaS_QzJ6hftvU1LjQeOmU",
+      "view_skin":"https://lh3.googleusercontent.com/ALUjaXoRChmHq7DuKkBJrORlwAA2tySm5Q-AbhGzDZ-gGjBPpuPF-bXj-_aCzFYVb2hcxFS0_q4Jp18ZvQIkEtiP-s_Jq72KneXD"
+    },
+    {
+      "id":49,
+      "name_skin":"yandere",
+      "skin_url":"https://lh3.googleusercontent.com/GVfgoqku-I_y7mSEraGWgCkvw4TUfUHKyDIK-m3_yH5BIY18g23fCe6Qs1e-t0uWEOqVEkwr5mP_BKLBP7PqGQy9VRU0jkgUJg",
+      "view_skin":"https://lh3.googleusercontent.com/KNJBzO_uC7wXvnmgP1c1pJBBoGomQBq1LW9POxs_T9ZxlOYSXJhKeXoK0kxGsShYO_hF3pPZEm4xjc2TKk_qcJQznVsHqSJt6iE"
+    },
+    {
+      "id":50,
+      "name_skin":"Saiko Yandere",
+      "skin_url":"https://lh3.googleusercontent.com/Ql1MGKUXMF4JlqYKQkYfDpyvk1Rt0lFe2zriUB_-RoRBszveD4_Aw8TxYjy7xzOw8S7zlWatCOnwoprwF-_ThQpqX0ii6gt1rhxi",
+      "view_skin":"https://lh3.googleusercontent.com/xgYlr-ct3jgoCTavIFnePofWC7UalJuabEMk8HQYMqt5l8emWscWuW8cnG37UvcwINURnUik0j-iFYpPSBbP4p1LYjy0O4hTytc"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Vehicles Addons",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/New%20folder.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
+      "des_add":"file:///android_asset/Addons.Html"
+    },
+	{
+      "id":2,
+      "name_add":"Ultimate Bedrock Utilities Addons",
+      "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
+      "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
+      "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
+      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
+      "des_add":"file:///android_asset/Addons1.Html"
+    },
+	{
+      "id":3,
+      "name_add":"Defender Of Village Addons",
+      "add_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village.zip",
+      "addB_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20BP/",
+      "addR_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20RP/",
+      "view_add":"https://archive.org/download/defender-of-village/New%20folder/1.png",
+      "des_add":"file:///android_asset/Addons2.Html"
+    },
+	{
+      "id":4,
+      "name_add":"Plane Craft 2 Addons",
+      "add_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202.zip",
+      "addB_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20BP/",
+      "addR_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20RP/",
+      "view_add":"https://archive.org/download/plane-craft-2/New%20folder/a.png",
+      "des_add":"file:///android_asset/Addons3.Html"
+    },
+	{
+      "id":5,
+      "name_add":"Naruto Addons",
+      "add_url":"https://archive.org/download/naruto_202204/New%20folder/Naruto.zip",
+      "addB_url":"https://archive.org/download/naruto_202204/New%20folder/B.mcaddon",
+      "addR_url":"https://archive.org/download/naruto_202204/New%20folder/R.mcaddon",
+      "view_add":"https://archive.org/download/naruto_202204/New%20folder/p.png",
+      "des_add":"file:///android_asset/Addons4.Html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Mushy Island Maps",
+      "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":2,
+      "name_map":"New Clark City V 3 Maps",
+      "map_url":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/New%20clark%20city%20V3.zip",
+      "view_map":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/new-clark-city-map.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":3,
+      "name_map":"Liberia City V 10 Maps",
+      "map_url":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/Liberia%20city%20v10.zip",
+      "view_map":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/liberia-city-v10-final-update_7.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":4,
+      "name_map":"Fortress Maps",
+      "map_url":"https://archive.org/download/fortress_202212/fortress_map/Fortress.zip",
+      "view_map":"https://archive.org/download/fortress_202212/fortress_map/fortress_map.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":5,
+      "name_map":"Medieval Town Maps",
+      "map_url":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/Medieval-Town.zip",
+      "view_map":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/medieval-village-03_9.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    }
+  ]
+}
