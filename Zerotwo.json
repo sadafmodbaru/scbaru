@@ -1,0 +1,443 @@
+{
+  "Ads": 
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/4zyF0HE0KMxXbBDrUq0tKnMrrKRurEoUcPPz5zQ4r-hXRnMzw5dKmPNL-H2mwE0NLoMNRPmsK4w20LWnnctq_w",
+      "view_skin":"https://lh3.googleusercontent.com/XV6mDh4c_6QOYjFnHjbNak6VJbM8R6wwvxikG342Ni-dH-qc9IapTL4117xIa4Ej4G_6cQWNmfU9NMAE3AZkvA"
+    },
+    {
+      "id":2,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/8kZHBqYnWFqg4DlaXNNuOudQo80pWkGyikgoFyuZL6en6EA7EVdvDQTcIblovTGYlxk96SDGjCWoyZw79UQRCA",
+      "view_skin":"https://lh3.googleusercontent.com/5l4C_oUazNG6TPXivh2TCIm5KyakKtHLu_sD1FJbCSy5Qyb3eZJqH-Xp_0J3QdcJaoJgRpNTIy17yJ1vNtnbXw"
+    },
+    {
+      "id":3,
+      "name_skin":"zero two boy",
+      "skin_url":"https://lh3.googleusercontent.com/UaLQInsJOkN4udYrUBjLe5xqustNeOEWVhwvb1cqFJd8P97i-HOw-ycjEH4EuqXF37-pgH23f5_iFn3Z1upxIy8",
+      "view_skin":"https://lh3.googleusercontent.com/X7-GJg_MlrWnRciBjalQvVky3oR47aJRkYZ1yBoXN9i5dZfx49dJSXNV59RuPZ4yrsBssd4tTOtgqt72bnRvFQ"
+    },
+    {
+      "id":4,
+      "name_skin":"Zero Two Akatsuki",
+      "skin_url":"https://lh3.googleusercontent.com/9iHEx9T1Gpm6dlQd9onvXY0IBzjgYIPUpZfx6C6oFVEHN-w5L1TTvgFCbpHaMfNgWbiFNUBj43rzpy7c2rV8Sw",
+      "view_skin":"https://lh3.googleusercontent.com/fkDkmcauaI6ykF5q3ZTYSYvMfZ9MteWPpi2LvO5_XjSdol6r7lS6sFTSBsuBY2D9xambzUZsjXnLtBIcQRulE_0"
+    },
+    {
+      "id":5,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/AHW4BF0oAyqtHRXS_tyTsixDsbiO9lSH0OeoGL61MB4Pc1D8gqj3OOdUtm6U8wFSthm9O0-8m4Ac9as_-XfJ58WrFtGMkaJ-0kwE",
+      "view_skin":"https://lh3.googleusercontent.com/XhRduYEKmM7nq4vfRPJcyz2tcHu67e6o6oAiI_1vos7c5XBKyudu2crcaaksPHMyRkXKdqgykBBPy_-jEAx5OTFuDzWxq-Wi9p8D"
+    },
+    {
+      "id":6,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/OOmEabApyWms5p2eQAWdGSNkZVbE1dhE797A3QDB_SE-53w00ZjuSlVKzj8migE2u3HstubNsyFH0sJznfq2lw",
+      "view_skin":"https://lh3.googleusercontent.com/NMz4C-FIOzN4Q4z0bHTI2ca5-W-t4Wa3PcLU8Lt1cL317rEaO-vMBvE--PO7YJvxiF7PGnJ8rI9_zvVf-UiDMg"
+    },
+    {
+      "id":7,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/XJazztfJJ9IoSuOD1fQttmAlei0upta_rV1PsG-XyzouJbg-AjUR1gnRezWneTtm1S_s5xsbEQR13oKhznFEKIjMEvIT0un0JA",
+      "view_skin":"https://lh3.googleusercontent.com/UChD4PKHNSQTRrSuANbAwfFLB9ueeE-4kUa4zK_B4mu4DpCLf2TplEAh9EtU4w9sLWnZ5TcYem_h1Wo_58_7CAuIVCfedzH_BgI"
+    },
+    {
+      "id":8,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/yhQQ5kX43Pp9NtWuSVSZ7sasqOZT4Ehg3pj7MW8Cpa-_SPYzjbJ4ZRtPxJSPuyPD2CNLxahea0bapq1eIdbszc8",
+      "view_skin":"https://lh3.googleusercontent.com/ANlYSntS8IHr7vPusMM2lR5mHiuVEMJ-GPhGgBMNe6xOvwdPkc6OITFJ9DczCnmxVs5InR_lu8alaIPjr-dN4A"
+    },
+    {
+      "id":9,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/nmIjWVY75mjZDQEfOfBDa_wRokERflk3htUSQznAQgg1hTyurDqbRNhBcDZjGvnBuEJz5XBcTMgVu1bC47Zw2rM",
+      "view_skin":"https://lh3.googleusercontent.com/Y3Sey8G3gug1kITSI7nI69d_pypiEC3-DIt0zxOb_bUzA9uvRLhIw95eCZ-Le6wC4qiEptKWSSl41pVTQW2K1w"
+    },
+    {
+      "id":10,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/a8Xmy5_hchEE15gsdGSm9TJ3gRwKoTnKAOKDXcXZThxpCaNVeN9O5BjtIHvY4u9DeXn2jXiUwvS5g8CIl4RKyuVleyHG0-tb4Wc",
+      "view_skin":"https://lh3.googleusercontent.com/INh9AtpmSb-6CbpdIW_WW3kFi5RsOTIABB-5fXSX4fJtvFnNoWVGeft7Od-MJ53bvJ9nCBSKQuXPhHaOCkSpzBRAYqD1tHCK5A"
+    },
+    {
+      "id":11,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/BtiNCEyXs2z0EM-nNA5Eg_DsTMRIZTyMgcpcQ3GOehoX656c2pxhSAeCdS-58q68hbY3CpFgnHdlQZkabHBFqg",
+      "view_skin":"https://lh3.googleusercontent.com/Qh57EQ5JGsqgP4pmK93uCqJKTDjZ0CflhxugsCao7LxhEpLptSE6vWd4q96D-WP_TryRGyOBgYEAi-Ul_2_wzw"
+    },
+    {
+      "id":12,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/HFuzaeoQSMDtNeDA7ZgZuvGmWexBx_pO37Ec27SFZMIvVCx9SQV-62-do7yk359p-vEz-YSK2Pvo-5ywXKcb",
+      "view_skin":"https://lh3.googleusercontent.com/9itC_kyS2tSenmoow9MkthjxeC9EDc6S4NFZyx4C73EFTiBNVY1KAU3veaI6AjOarbOA4UqmUA5Kcyg2OZqLVQ"
+    },
+    {
+      "id":13,
+      "name_skin":"Boy Zero two",
+      "skin_url":"https://lh3.googleusercontent.com/sNRjKv-S3-t0PuFLdL3evCWcL3kbzNBnPx-64rYFHsNL2jPml281c2fYLVycCvwUtIRfB5G9r65WyzmjFqeYh9i6hsY6Tuky9wo-",
+      "view_skin":"https://lh3.googleusercontent.com/u5jxH0pXpzLmC0UQb1M4SQpir_lrdmRqwtnJf4hOCfEeJyXTRexDupLcdOvG9aLg_hL1EzluacTs0ciriFN7CLrpO6YCshMttTU"
+    },
+    {
+      "id":14,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/TinViV3gHgwOGJ4ZAWj4FtZj2IiQYNW-uu6UpFvOAF3jYpag57BCHl56pd4zRMhyhP_bQo4OoO9zePx10geHpBLYrzQ6weU_7zMW",
+      "view_skin":"https://lh3.googleusercontent.com/4W4nh987Q8PTtgmUEruMOzMCl8zXMODvTEUIiCnbYIQeOQVagJswJsPk2L5qDa4i3luy25UMCjKcugM4WgZf3psAs2mZkQuCBg"
+    },
+    {
+      "id":15,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/SjgPipBrAotV2xLQdKAk1dF-89DpKjwvk_MKj1-_qKt_OloTCC-KgErRCjQykuNL3ZqaJomP_WGI9b-5QJuZcrYcteWcDNbWaQ",
+      "view_skin":"https://lh3.googleusercontent.com/zZdK1dTelLXaC-JoLAF9mPmB5Y48ydf5moZYMJjs-chmGpFnul8kWjh9psem5rQ_47MGTto6SKLiOEngvlCR-eJVYpb7-wPGYQo"
+    },
+    {
+      "id":16,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/IHjAQSbJp1IkxEvmM5ANH_YMC29AiUwaZa4OraZkUpPe3dgfkA1xJU2MNZ4sMDybZF4sWhQ0uRnYj9GEfD2tKnJEW-eLhiaBVsM",
+      "view_skin":"https://lh3.googleusercontent.com/8apupsD4JltkHwuhtxf8OmcUP8mwmQ0a4ABp9yf_EbrcZeIZJZFm5BvVAYkMscJz9SIRE1OyE4_vin5DjU2Pt1mG5_PdX-uaxEQ"
+    },
+    {
+      "id":17,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/KjLfyw03-qKsDEQCM7RseXnCgB8daMvTjljJwM-xRVHFIX8-JiHIs1oJEiGKQ6JiYXrOr1mxtitDW4Xp1mnNfJUpaF2zVFOtY5n8",
+      "view_skin":"https://lh3.googleusercontent.com/i81gLAbw9s7E027t7h2Q45mpIjcYT0oQ_2zi_lV14XaMr2ExR7CTGXe71qp86EHJIjCHkVDoYiaVNs1SbOp7D6n2GPfaVcV_f_Tm"
+    },
+    {
+      "id":18,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/gfck28yA7DRCETzVwr0yu6TIRTgJmgM4bI8Fb_ZpejP6oodg2lBNIRRemB8bw7ivtqob1eqpXwplOjngJIyXa18bh_DLiLcGrwM",
+      "view_skin":"https://lh3.googleusercontent.com/7jhtr_9sUgBG-SEC7B-2LSiiZvPwwBX7nP0yH2zF0_vocW_K8zIxGK26XAi9ObTKY1ie2xX56orFcXsYKfA-zNJ1PzLbv7zb974"
+    },
+    {
+      "id":19,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/Qysb3ADaRTfkwg4wNsnoKYgprqOVwxfDQTr_FVsvwjHL9beyQoumUuAWnNc94NemUpKxTC-ybY3K-HjWoMw05utZE6I1tp7au6I",
+      "view_skin":"https://lh3.googleusercontent.com/7t7uMW8QivQFw5HwcEl-QFzZu5VKQORWTZjox1Gjoucwf6m7AOPbb7_ElgF2Yx1A3uhkKFTOE5nEikJEcXvkmB9MpRR5YUEiPSE"
+    },
+    {
+      "id":20,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/8VOqOcr9HE6mejYFDboWubRtSB7tOMO_JhDBcJuwkRBY5r0-EnNyzq8iyRRID0ul_Q8XMQ0OkoYiaEYqadJMyWtrKEFDoUO_GodV",
+      "view_skin":"https://lh3.googleusercontent.com/3jA5XjJHTKEITWMF_WZAJKS1pEX51aQudLmw977sfDRMFi8CwRieBeszX_d2XjhistUjfXMej7LbjuVE3UZ2rVuQPeY2r4frLLE"
+    },
+    {
+      "id":21,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/IPUrC7eZcRUDAmnzosPQjhN-eNkXuZjIV4DwogMrXifKwcYyQwhffOAvvXtJqyzWcmg_nIqqJuEkDfsrNIFb7FTFEg1rlSF0pgI",
+      "view_skin":"https://lh3.googleusercontent.com/LN4nq0s0bZEAARqcjWcZli7an9CywLcQix2v0wCtGAu_o7EiCPpteh2bBtnGXFHx_1qwaFxT7fhmEJGYc87VqAad67uinTePjA"
+    },
+    {
+      "id":22,
+      "name_skin":"Sensei Zero",
+      "skin_url":"https://lh3.googleusercontent.com/HNqMmP5cGrgHBHMkiJKGt4Og-S1jJGNB8axLYyPutAr-NF7xNSZIrLo7eGuZIDPGc7jiuoVPiPGwt9kSWAITeaLlw6nMLV5SEjk",
+      "view_skin":"https://lh3.googleusercontent.com/E7wsHVgMFyVwz8LodSchBpkcOgd4eT_7aePCZ762GvPOrsJuO1vZwLnn-taRllAT8pRpihxvZ8wvYvQZMOpZJyhslD-LGL7tBqA"
+    },
+    {
+      "id":23,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/Yl8_7hV8KlG8hPwDreGIcBS6bN6bMTg_29I_D6rblJrQoLm5vH8fcbmi077fiN71qcAp6HapAZLOgY9A33F2IrFlJO01pQhMog",
+      "view_skin":"https://lh3.googleusercontent.com/-cBN4E6OmJtgEmHcVNTeYhw9XQCRbqukIH0_wXg-3rvBGZkJ9NpLJRPNSJi4bpIoozQclwiHF2u9NSC9BsBaKM4h5B-6XRhMDQC1"
+    },
+    {
+      "id":24,
+      "name_skin":"akatsuki zero two",
+      "skin_url":"https://lh3.googleusercontent.com/ihiac-2mq9jUHENPpgPIYkimIUoWBM7jvwlx-IpjL6NmnvCMSQ3Jx01csqOWcWLlUp5sZivTaNQTZSEDKVNRQ_DqdH7wA76fu9Re",
+      "view_skin":"https://lh3.googleusercontent.com/ymc1MF3rrik9JjLfy2onEqH3qOHDBAxhCtBbSCFhnZjLoumdZwS5niokFpe-6q2igaq_ciFGxI_1ONPQjDAc-xMrIjL-NAnhtiNQ"
+    },
+    {
+      "id":25,
+      "name_skin":"Zero two",
+      "skin_url":"https://lh3.googleusercontent.com/qygZuTauXMw3sjYpKUu0AWHfi-ODPQQXc_rrJuWO6Zg30HH5ZEdwNIq1cfVLoDQGi0zWNDX1pcpx_aZq5p7yUaSGXWBzL5UEbJU",
+      "view_skin":"https://lh3.googleusercontent.com/7oho321wPIRo2OY5cdJb1l5LeiPEK-4Tr3QkDfWhC5rkWoXukzoptH84pZT8_OzFmS_jHIidR0DSphyX1vrFUnrDNOHXlI28cg"
+    },
+    {
+      "id":26,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/-70uyFZ0RQS_RarlZL-XRKJn5elBfD9Cg0UxU_nqDpbYHnrFqj0pEZXE4M1lKHsh11MAZnftDFQfvdd5FwudV_N69WveCaHViHrH",
+      "view_skin":"https://lh3.googleusercontent.com/MqRUk9Il7hARZfmQT3cV1PmsGQSEeTG0AQmKIZiG3fSsJQxP3lAIVo2PDDRpo_8DXyZXrmBRAlz2lObl56tARl6SG5AWcanXn88d"
+    },
+    {
+      "id":27,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/vr6wLljWCCp3vPh6WeLQhxx8ElFXxj2NkKsCbmIyOuFCE930QOWmeycfuG9HkABTluWonccTvy3957tk7JMW5vjzMHBhdNR74V30",
+      "view_skin":"https://lh3.googleusercontent.com/PWWpHGQ9w5ymP43DWqta9_0yZH1c232NkBmvcVl0MjvBohiM3hF8S7Q6Bz7K2LlmzYUK6h_Ei7-XXSYuvu8mHtzx-M3QJSPNj6E"
+    },
+    {
+      "id":28,
+      "name_skin":"Zero Two kirby",
+      "skin_url":"https://lh3.googleusercontent.com/u-jpTu3QK4nmpmKMHkYnOtS48A24K8ijL9oGfiFf0yvE_Vv5Y1H-gj1YTxG6JwFw1xPkSP9nRVolegV_MDTfgcMC9PAVw5Y_rWU",
+      "view_skin":"https://lh3.googleusercontent.com/jmuFWlDtS8yMqYE5wHGN5vc6HIciFrMPpmqxsXyWCWPzbktM974nVWYBeHpEqGB8zPoVE5sSO2NSWWgkxUMfWHAnKnVFseJrlA"
+    },
+    {
+      "id":29,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/SsRadAU2jmzt3eKpQKcoylwHIMTiv8edu1SV795jF--akdoMDt8RXEis_LwJyAQPTdTMAMKnWUpajeKiqcwIgjtLtzbeo_c9",
+      "view_skin":"https://lh3.googleusercontent.com/h1AvAUVwWaVEn59mFJgKJwiGm-eG3hD859JyCdAWq05WenwrtrsvAtTKZ_MG_QyJ7B-yYJdvmRkXGx-niLl-3BXEBylYuKp4lzq1"
+    },
+    {
+      "id":30,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/u5dsv8S-PTFt86h-dOQnBw5xgbF-q3oy2l2wA8PDNiYnMIMgdl7X5ly-7t8wxDz_D81VB_nEkr4qHVM9yt5jonoppqBcscBk4mk",
+      "view_skin":"https://lh3.googleusercontent.com/vKhMpQhOsR8xlD2FaomcsotTpZjhmNgZuTJCpwMkFQXBRwjbGFYOBLyzWBdaOMtjXfSaC2wgYzLRSouK5yqOpRLoLwRx-SJhm5E"
+    },
+    {
+      "id":31,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/NzKxfefw1XGJ_uf8Uk63sBrc6f5XyraO4pR3W8X-Lx2VPLWWCEyDI_2ovUhW3H8tFgdb3VhcAVflUJ7pJqGLVtzFf8iGZoOHPg",
+      "view_skin":"https://lh3.googleusercontent.com/nfqZNgVTj1mGxJ_6bmbbk_dTEptA6RzPk74h2Zu_Om3e6_KUoyzo1K3HYEIwGa6pxMYeCaRWrn_movExWCM6k8g6eNtVxae8DHhv"
+    },
+    {
+      "id":32,
+      "name_skin":"ZERO TWO",
+      "skin_url":"https://lh3.googleusercontent.com/z6rjv2dCTlnlM3nHOk_WhfhxMXd5DjCiu6s3yM-WaqmN--6h8ScBrXT6w5XQwnEgomhoDmlQdQUKr26nukTVdK4sCTGSghNKJwu8",
+      "view_skin":"https://lh3.googleusercontent.com/i5Lz0I7Q2gqx7qW3G0GHqyVAD1KU24uZTRovu9AlvEUb19vjOCqZZkRePsNBJNNT-ngFDZbTRiWNlQqpePg_0WIgdbU7H72GOak"
+    },
+    {
+      "id":33,
+      "name_skin":"Zero two",
+      "skin_url":"https://lh3.googleusercontent.com/ysMGxAiH_qZIpYaQPnngZ_GSBqiFr-3E35YzCPxDPx2onz4cCCej91ugvhdEkQJM0SlXCc0f4TExRSVfEC6TPaJI2NEifwypEY0",
+      "view_skin":"https://lh3.googleusercontent.com/Mi3jtdGo5LY9-LnSW23QlSK80JPjM6bhnfFQxys7lkerfagbJgJyNt4FRKL0Zgj9meBgsOpD2_1_Xu8l4LTdhzxifK68fGpdktDH"
+    },
+    {
+      "id":34,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/CpNYWf_oug3D5_e1G5GC7u8AVAfZh4jDgXXJFy_CHsmVF0_ApLkLoPB43NByeSF9d_cIXNTxUpqrH6iuRYYrWw",
+      "view_skin":"https://lh3.googleusercontent.com/ELUXWmO69MJFY1rmqFDhqN-IqgiVbwFHYVJ_MFu-wRo1PA-a6ths5Xj4qU3yVcVWE0MIZOC6ty86x0xYEks8m6HlX0IJtbGtww"
+    },
+    {
+      "id":35,
+      "name_skin":"Zero two Flame",
+      "skin_url":"https://lh3.googleusercontent.com/VxndKbp4_Z2HsEs-sNI3WMmk2oA7UoPUpY-Rv2vBKgDy-e1la1NvWCkQuhROuXlz0du6VgsxyeSiM1yAU6nDO225L5vdFoDumw",
+      "view_skin":"https://lh3.googleusercontent.com/9udfYNU03qIl7oXgRGKbwqASNbTnpwvhwzDMxU6117SYKV9-hbeB1sJ8YEFK2WZnPnoiCX8VhwwJqzxpsDDIolOBRexMGp2kqHsp"
+    },
+    {
+      "id":36,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/aGPCGw9PVrouz_BMPtjAepGJEz5WVgVbKZ8skGEFiKnlwaYEUSNkXLWlITkxfYxbQthOzxKrNMoNTGWzh29svh1nbNSCzXnz8f0",
+      "view_skin":"https://lh3.googleusercontent.com/kKqC9P6xIjiSaT3-EDZEfAgjpQLMEUujifGJMMT-ZEu8PAyimONOSLZ0T_Eq-_Sl7IFydfLND77oATQlf4dL-UaWtrG1Hl6589I"
+    },
+    {
+      "id":37,
+      "name_skin":"zero two mask",
+      "skin_url":"https://lh3.googleusercontent.com/Kce5AOI7AfxkBJldmCTi1SPSigHe602bFxdNvYrMNAYuVRr4s3GR8AFrCXvb7UujlNX1OohtiQWq5UYkVx42C7sTweEUg7gqPul6",
+      "view_skin":"https://lh3.googleusercontent.com/Fia3yaubXv81hDOFl-oI-hyjwcANTJ_3mL8oL_le42s8zlTEK-xvBITBKOa3DmxnNu28zYllc1qesNzqMyUh9VnRf8h-NDMMGWU"
+    },
+    {
+      "id":38,
+      "name_skin":" zero two",
+      "skin_url":"https://lh3.googleusercontent.com/jK8q3ETiXQ2wUFD-ppBtvl-ddMBVudfsa_7nMFsLfIvBGL475FNj0t1Hmp_pOUNcE3c33u3HeJru5I0IjVG3YtOAqfZqEb5jaQA",
+      "view_skin":"https://lh3.googleusercontent.com/PE_hehHgxncdGXs1S_RRCBMOQFtcKmmQpV1qg_CvH8qI3DMO1Xs2UIA4xLt8ilDcS4a2bqZIKsYtEBDnM8Mgiw0vmeYakChnhFQ"
+    },
+    {
+      "id":39,
+      "name_skin":"megumi zero two",
+      "skin_url":"https://lh3.googleusercontent.com/lOJmcIedxIkwJuquqEOX2Qf7m8I9XGefo7gCE26ildrG9by_y0Qu5jA4ze-d1OWrfpNA6g2zAssbi_dS-defMwqtDgx8TcFPWQ",
+      "view_skin":"https://lh3.googleusercontent.com/cw6qXQr3aiWCoLT4UYiyTYuksiwPyXobn-mYLx-kTjLn-vr61jSLdU6_0NyAk4mQ39cUxUfwcYZsFXKHjRUiqm2PogjADeMQ4As"
+    },
+    {
+      "id":40,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/o79uxQX1xxf8IfPi6qpsm7BtPaCAtYNGBjMsQK8Oaet5qD1syQlu9nC-fTwKUApAfbDj7C2-MNYji8ZitYX3QZpny8Xn0lrOZA",
+      "view_skin":"https://lh3.googleusercontent.com/6cuZHhItRMFSssrAtC4zBc8CbgzN7x3HgNbJh2uspG3BKrsQXWplYIM35Hc2WE6iFmI8wg3ABDMhrkSA4inxh3ljpelPHkNqYA"
+    },
+    {
+      "id":41,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/b6O4SYcbCgw05FFct_mWz9DswkKPwF5BrDHxpDKPQ7HHVgFAN3D_c_2BpDUTq0mNjQPke1C3hct0Temou59SaqnyK3UDOWdui-It",
+      "view_skin":"https://lh3.googleusercontent.com/CYCzHeShT-0-ZPFLIWAMxh2DqkZx5ZscZrUDJWqAr-bYBWHCVK5cbCjmPyWXXLpLeyOcwFTnxliK5MKolscdFA0CUI9B6Y2HUMY"
+    },
+    {
+      "id":42,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/E55WkRcSGEZIbQPL0HzgdN2yawKDaaENmW3XP_edU7j51yQAT6PKq_p4Ke0c15r6V78IoBuf_wrVJyTLm7WfPpQ9WpmOC0NMeHek",
+      "view_skin":"https://lh3.googleusercontent.com/yP4Rx2m9xkdgrlYD34K2p9iUHvyiO66YoMiemFuzqG7DJaoB2maKfLRpDAeMSu05kOFVjjUIyE7yvgS9pY2rteQbNizJTCrj2TcC"
+    },
+    {
+      "id":43,
+      "name_skin":"zero two akatsuki",
+      "skin_url":"https://lh3.googleusercontent.com/fnupQ_Clj3y_npdHEiH1yk-q83-Uo63YiHPD_npmcG-R79VsueU6tjIVCPHY8oTsELzar-fG1cEkOSrD0ljcefPa0GINOv1t0Pw",
+      "view_skin":"https://lh3.googleusercontent.com/RpSExvmGhA6et49glRn4KGICRsJpHJ233ecIIx0eZal8B2t5GMzuq-INMkndT2xzMF1RGqFhv92uN2XTjUtWzLyitEMSTuEB6w"
+    },
+    {
+      "id":44,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/F2tUll7TXUq7Bs7d7_UeepizOLD2cfmAvQPHn6W854xIXlLUbkfgU0G-kFLTycAqrfAZzKbMtioFJ0i9BvQMBA",
+      "view_skin":"https://lh3.googleusercontent.com/aebWYZEhI9OCL2Lb234DDdz3icMLYmBY5eIlH9hIJ0kdn8QiGb80b822wLYRiKNDEg4vqXe7D6xHiZNbrxlV1ciFEYXVC2lK58M"
+    },
+    {
+      "id":45,
+      "name_skin":"zero two legion",
+      "skin_url":"https://lh3.googleusercontent.com/HVoZkdvGl_P5blVlc_2QhH5BkZ8c2hyoo3b8JWi03pJYkw8DpIv-kYcUKQVPfePT1OCMANgfPF7CIpt6sGscK4alUECpMexV8Ro",
+      "view_skin":"https://lh3.googleusercontent.com/z0I4u-qFpdrJxht6G_ecmLe9ELPIe07GvB9hB1zsGWUe893y8fAaFQOrtUHSJSOyttElW7TGufS_gsxRT0KDMidPmfEcmFpkr9g"
+    },
+    {
+      "id":46,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/uxzhRCOLj4PAyAf5U6PdVvRoH5hUaMH1q7G1eky99kXsSLCQMCvFUg0PbS64oPmTfnIYdGvatiq-R2R_KOl3wee5-Fj9-XRW1Ls",
+      "view_skin":"https://lh3.googleusercontent.com/N89ZoyY2AG03A-9LIvAvOrdaxftu87xrDi_3d7YviH0RSnOvokoU-rrcot0i4XTN1vYzHrmOZ7buD3_coVIbIrFvLEdHh1cf5hk"
+    },
+    {
+      "id":47,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/LfRVhar9-ZeD6MwMkzVdrZq2qwS9Q4asde5K1gjaQDA6Bql4z6p69x5nJaLIAvRVMI0_JSSb00sb3HUvjoD81_vl1MzCIFqthelK",
+      "view_skin":"https://lh3.googleusercontent.com/f31h0MUbIj2hr2SU8BGe4OIzZAUJAc3myJE-tXUujxxs3U0kbM3mKgFPLrqewQPK5jx0Z2p90XNpT2NPiqgkOF9t2nnqO77HHBUJ"
+    },
+    {
+      "id":48,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/CToFrBPUdxhmZ9iVPQm3VJCBdJklcUovYUzfkZVtnNibPMl1luLsVuS-ovt8phY8mjWWqVwGz7gxNVH2cDeXj0YlamBniTYAIC59",
+      "view_skin":"https://lh3.googleusercontent.com/i-d3VZrgoi0ypYKKtNAsPs_NKrcrTiXbvVZG477vsQT8xjK8IPcgd5QFeAtoMfYnpsg795tMTEttGVgASsr5L2nqxeIWcZcleA"
+    },
+    {
+      "id":49,
+      "name_skin":"Zero Two",
+      "skin_url":"https://lh3.googleusercontent.com/ou41hwk3AHbXMJUIDPeFCwNiSA43ohxvW_QXK8jcNp9V_Nfi6Z8ZOR2BtdNwUhrmCGzUu2bNLHwX6kjd-_0mEmmuu0xPyE6S6Q",
+      "view_skin":"https://lh3.googleusercontent.com/vlGTVbrM8vpPNC2lTPhkbiz-4E1lDu8oUrbyDHPSOf0kO0uUXRCP0H-V8IhfQ0oPRBaWlqGjf-y5AM3WdFhMd3vBRdDxvqpUBAn8"
+    },
+    {
+      "id":50,
+      "name_skin":"zero two",
+      "skin_url":"https://lh3.googleusercontent.com/gF0VgvC17qQNPRqxFsh5ztGBlP8x8t6P1ZNUUkDrqAbKQtgILLH_bFvrgZdOi-gGFRzC9zQjBSHyI-Br0GK3XdggQukurfjTHM0",
+      "view_skin":"https://lh3.googleusercontent.com/lNfVw2IvsfLeyR3bSl0VnkYFCRdnEJyfHc8aBQYRqERdM8ftDDhvaeBGdUI_cSHkZHgMHYlDSv_oHUvzYrj3D2-KSGG8MRnqWA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Vehicles Addons",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/New%20folder.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
+      "des_add":"file:///android_asset/Addons.Html"
+    },
+	{
+      "id":2,
+      "name_add":"Ultimate Bedrock Utilities Addons",
+      "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
+      "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
+      "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
+      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
+      "des_add":"file:///android_asset/Addons1.Html"
+    },
+	{
+      "id":3,
+      "name_add":"Defender Of Village Addons",
+      "add_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village.zip",
+      "addB_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20BP/",
+      "addR_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20RP/",
+      "view_add":"https://archive.org/download/defender-of-village/New%20folder/1.png",
+      "des_add":"file:///android_asset/Addons2.Html"
+    },
+	{
+      "id":4,
+      "name_add":"Plane Craft 2 Addons",
+      "add_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202.zip",
+      "addB_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20BP/",
+      "addR_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20RP/",
+      "view_add":"https://archive.org/download/plane-craft-2/New%20folder/a.png",
+      "des_add":"file:///android_asset/Addons3.Html"
+    },
+	{
+      "id":5,
+      "name_add":"Naruto Addons",
+      "add_url":"https://archive.org/download/naruto_202204/New%20folder/Naruto.zip",
+      "addB_url":"https://archive.org/download/naruto_202204/New%20folder/B.mcaddon",
+      "addR_url":"https://archive.org/download/naruto_202204/New%20folder/R.mcaddon",
+      "view_add":"https://archive.org/download/naruto_202204/New%20folder/p.png",
+      "des_add":"file:///android_asset/Addons4.Html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Mushy Island Maps",
+      "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":2,
+      "name_map":"New Clark City V 3 Maps",
+      "map_url":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/New%20clark%20city%20V3.zip",
+      "view_map":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/new-clark-city-map.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":3,
+      "name_map":"Liberia City V 10 Maps",
+      "map_url":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/Liberia%20city%20v10.zip",
+      "view_map":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/liberia-city-v10-final-update_7.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":4,
+      "name_map":"Fortress Maps",
+      "map_url":"https://archive.org/download/fortress_202212/fortress_map/Fortress.zip",
+      "view_map":"https://archive.org/download/fortress_202212/fortress_map/fortress_map.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":5,
+      "name_map":"Medieval Town Maps",
+      "map_url":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/Medieval-Town.zip",
+      "view_map":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/medieval-village-03_9.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    }
+  ]
+}
