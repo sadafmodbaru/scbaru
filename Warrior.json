@@ -1,0 +1,443 @@
+{
+  "Ads": 
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Gabriel the Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/Mu_rxbEuCfFQL4edrxaMgAxQ71fsnVNhFBiwasKDpCYypIhAarSL73p1oQsirLl_dLShdYIbR00p9f5zUe_RNA",
+      "view_skin":"https://lh3.googleusercontent.com/nG2fGK53JouMqt3fruhYzji_IIf5sHCMTxuqhbgek8LKxZvoX0O1eSheBWkU0Vv5GEz8jP3lb_G_S76j3M_5"
+    },
+    {
+      "id":2,
+      "name_skin":"cat warrior",
+      "skin_url":"https://lh3.googleusercontent.com/jvMkYnzKQu1gVYpUqZA5aa3WigdiXREWX6ncHVfu3VGIIm7hruoarSimiU2NVZUYep9kpa_XZfmCo0J6WDPnRFqayrq3abJfIIc",
+      "view_skin":"https://lh3.googleusercontent.com/uMoAggGrcbo_-TOgl6FHW91hG43C2eQwPcjRtDRgR0ZxrGYetLH2LGwVqB-Ez6hDAadZ2LxWyNiKOObATtKpGF2csc5c5M0dKDI"
+    },
+    {
+      "id":3,
+      "name_skin":"Cyborg Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/UXapW3YNPwobMmt1KGIrDW27WKYSE6VHzunyg5DPRtyG4a7bciSNipROmybF4-lbStA2YKv147s2A_PcIR5Dbw",
+      "view_skin":"https://lh3.googleusercontent.com/WfwO0m3c82WQWOH7koKVjnlS3SN-vI3btbgyQPkEVZQWhN6Qaun4idyl0qk4562QTSHFB7isZG9yG2Ww9T1Xkug"
+    },
+    {
+      "id":4,
+      "name_skin":"Warrior Girl",
+      "skin_url":"https://lh3.googleusercontent.com/EYlVmQklo5Mmhf3qsfiwqEK0_BisNOUy06k5ecI-CJZK9M4ADEUxZ88P2mrNdfAGIrb-FDN_imH4Lrv-IY6R",
+      "view_skin":"https://lh3.googleusercontent.com/vBWWlsLJDDEesLqSwAu_rbPp_fqHekJRhQj6CrzJxWczx4mKmTmdUtVy2yKwXGpOV0MafL2MxQEQt7HvmXYuzA"
+    },
+    {
+      "id":5,
+      "name_skin":"HD Warrior Cat",
+      "skin_url":"https://lh3.ggpht.com/9ROrTjhlfzVYfAYC7lsaY-Ww8U1LW461wsueF4o78ZPuRXtLKcaAWQKleh1k2PEBgIEDp_jjYfXQ0Av6s2lPwDg",
+      "view_skin":"https://lh3.googleusercontent.com/mitw2SFMt-McIzctCLouijT9Nu_ERM4iH0S1wNDm73id06iqRGgwHfTYuHOx670pZDUCVVpn-Q7uxFoVWUbY"
+    },
+    {
+      "id":6,
+      "name_skin":"Spartan warrior",
+      "skin_url":"https://lh3.googleusercontent.com/mLhyvWPv9pjXXqvm2_ugHUkBXAB91eUAx7hlzdhaJseUxfkg8gSp3A30ljcOlftjuAKTolxNB1g9He5_pplc2A",
+      "view_skin":"https://lh3.googleusercontent.com/Nlb-Q3L4vJMmlm3vp5hTaO1ocDiuDCDU64GyIp0kDQ4CErIViLcnD9EBKW2wk9NSB_ba8BAWA0_1JCifA2FB2w"
+    },
+    {
+      "id":7,
+      "name_skin":"Christmas Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/9QyOdv4wwmC9j4KiAeQAN6LY0pzDziSy95la_IxEy-aI0jU150fti5QaYVimGGwsDXsXiNX7AhTG5AwmBgvV",
+      "view_skin":"https://lh3.googleusercontent.com/7mHcfgh17MjDu9QyunG7qeVKavMJCOPYn4A47ui5bxT_AECDdgKoCpUURcqdZRXaPc-gLW3lxgFdogPcC937Hg"
+    },
+    {
+      "id":8,
+      "name_skin":"ENder warrior",
+      "skin_url":"https://lh3.ggpht.com/KcCCzIlweTsE8My5Z9I56y694X2vijWurdCnkw0F3sZDKeVSBNpblkNiagWwKYik3EaJnJvqG_obJ3onOuwdkA",
+      "view_skin":"https://lh3.googleusercontent.com/8gcoO4_mrygXHMY7Qk0G4-lWlqt4B0k2T6mxMp3-T3IgmNJJ3C_Vf7OEr0Ao0e0IvOu934V3JY55JUWzBVgtbw"
+    },
+    {
+      "id":9,
+      "name_skin":"Fox warrior",
+      "skin_url":"https://lh3.googleusercontent.com/KYOxvHFq6FYEkMwDAr6K7vcQp38wr8o4jxrX6sXXHKhlof1G9DdbcNILvU7Sixp_H5EtVqBpmy0eyg7su30ZpwPusU9FNgOg2w",
+      "view_skin":"https://lh3.googleusercontent.com/e7__zVtnv0LckpGwujf2B8uS64G7x94YiIZmg2piN3s24ih7CQS7nXac6Zb9TWCGF3Xg3-oiCG4SW_jkDRnQDldBBvUnIOoQ2Cg"
+    },
+    {
+      "id":10,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/__M51I-Pfuuesph0nxQoYbnSCcoT8QJXl1jUcSTfHczi3QoHZpFzFkI5ABDMCPoU4kXZCRnhLB5qWp-bmnDb8Vo",
+      "view_skin":"https://lh3.googleusercontent.com/NWAoR_6WJtnOl8s2cG75RKX6Gi69xH48RhdH4pV_R7FZyWaJRzxZY4XUaFnSnCvU2tGJgH5py9d-SdU6nCziRA"
+    },
+    {
+      "id":11,
+      "name_skin":"Red warrior",
+      "skin_url":"https://lh3.googleusercontent.com/r5u0OMBY3L_SGPEunHDgE2JgWX463t_diEeygSQymJXW44_0jpaDSK2CnPB4F1WNO6Jca2QHTG8LhCGE2ExdeA",
+      "view_skin":"https://lh3.googleusercontent.com/4ToHDuY9wU3JAR3FAcALn_vB5XzoWqzzoK1HDt7wVtyJ27uoKv3hy6olmkw2GfXVJS3dzNyTE3KZsuXfjvzGyak"
+    },
+    {
+      "id":12,
+      "name_skin":"warrior princess",
+      "skin_url":"https://lh3.googleusercontent.com/zD8sYr5vyGQ2_4Y9ktqio6VGeUiBXtx7qjrl5fGARKk694B-scMm_uLqsX6XFEesjVxszOTanjCPPqoUZmxH",
+      "view_skin":"https://lh3.googleusercontent.com/_N1KM2QxJrdLOzVpB1_T1rt0oVx6vhpucDfWKk3_4j0vJEuDo-3cH_344O8c9ktYh-Euj2XPhDsBQaJB3bj8Dg"
+    },
+    {
+      "id":13,
+      "name_skin":"golden warrior",
+      "skin_url":"https://lh3.googleusercontent.com/jS2Tcg9tsbw0_Sl8LkfL9am6Cs1Qd3MEYt3mbpjrZxMXR8REYKWQHAxIiZSUFTuY4dWW3qqzKQhyJWRA3joHaME",
+      "view_skin":"https://lh3.googleusercontent.com/G1m30PGBp14C_vGHl2TwBS5uJ-sMV0su3YSf71Pj0abYv-wTDxUsUEtfqHAgBsCHj-7b9dwPaOCJIFvrDBegPZM"
+    },
+    {
+      "id":14,
+      "name_skin":"piglin warrior",
+      "skin_url":"https://lh3.googleusercontent.com/nuLRsZZZmeR8UIi9ebv9_bXRu2AVkU9RfRHZuHSF9Hg_v25_XJMWzZ0sAaP5CQxp0jfiuRs3qbnwtHJweJLA4Dnc_FukGAL0z8U",
+      "view_skin":"https://lh3.googleusercontent.com/U3v4CjygDVv2L9Q5QVerGwot8pUiVV9vFic3I1WiX4zMJM4SgKXZON6H5JtWP08sG4GFIHAuE2GYmaadXwaoEBc76ntXbQVHBQ"
+    },
+    {
+      "id":15,
+      "name_skin":"Dark Warrior Girl",
+      "skin_url":"https://lh3.googleusercontent.com/SnpGva7oO2Bz-ElgulyKXiSfoeYnbBA-s3crbh8olAugbAGUyPLlqRBi88vZ7V7x8N_zeOEeN3OuEp-lwm2Gr6c",
+      "view_skin":"https://lh3.googleusercontent.com/VFfDJMM9M-gNkpui0GTruoG__TqPb6h2u_8tlShh77_nY0SUJsjD6Suf2NTHJOMv8Xno6gV6D_zUv9HXjq4x_Lk"
+    },
+    {
+      "id":16,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/8cLeqTmECfse-x7kBrnQ0p5AOHKCCQxbzOg2_AwDzSeoCyWIVqBYWoIj7gCduQp4bKR3JWBps-y4HB1d4RyN",
+      "view_skin":"https://lh3.googleusercontent.com/_rDrD98hgliDmNaF7-zutsckLqLLp0--rFdef7A8JfDB6mIKteNLOqNGTaIS_kdL6UsRfIGHAQitBAGFDeFToQ"
+    },
+    {
+      "id":17,
+      "name_skin":"Dark Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/7oUTCYdXXjDBgzEZNCHL4AWUMsc7bhvtyM5iBZuZdb6LUCPmFWsZ-maRjDUrbA7uB8CBRIvZO3GgHOWAWl2xac6FTZRSYik3BAg",
+      "view_skin":"https://lh3.googleusercontent.com/Uti6hNUVvqHQAs7m9AJRhC0jlJmyFhULLVNsxXwSRzV-H5lWJjXalBBFZemQXKkEyivA72wpY690rptw-deFMh-dgU7AxsaMLCU"
+    },
+    {
+      "id":18,
+      "name_skin":"Villager Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/oju7J4rEBaHsAFab1AjRJygqufUQPE6wJNw8qTkqFtRHGEsBRb_XU8DJ5Jx7epTMcHZCEJnwMWro-tzTiqZcJw",
+      "view_skin":"https://lh3.googleusercontent.com/0zKBtkp792MLjxICJJwrFeVpA28kTI71FB8EG0Gb_pKdkht3xt3eDgp9fkyR7NvgxSO3mcDJoVcqogmUw4kRcg"
+    },
+    {
+      "id":19,
+      "name_skin":"zombie warrior",
+      "skin_url":"https://lh3.googleusercontent.com/1Jl5Ir0zzMZj_jYh2r3l0705Go9ccVETVJmjo9grWNvpTWn5ejfSSyAXFL9fcAIoclWcOjs3pi_Ux7YYnEuwUVwVWMy2epFdwoc",
+      "view_skin":"https://lh3.googleusercontent.com/RL1Mki95F8KgU_7AmPR5plIL6NsgefuVNLWuIy5nhYSbK4pMDumgUIcjjVQwddrCknOkUqn6kA0GnmxVQRdtjYZgmTWS3jSDcQ"
+    },
+    {
+      "id":20,
+      "name_skin":"Warrior girl",
+      "skin_url":"https://lh3.googleusercontent.com/UFSGgFh6cmQoRhsggJsw6ratxHsHM3I__Hqh4wvCh0gyUNYErXRl2W1t9CExq9ipv6Zwc-ADLqHa7ot5ywY0ED4",
+      "view_skin":"https://lh3.googleusercontent.com/rG124EllXmGKEN5r6-SPXc5lj1eF2KMUlioTbijSgv3Q7y70HYtrMd35tMYocbfTBO5lJVlXVdje1nrzpUGz"
+    },
+    {
+      "id":21,
+      "name_skin":"Warrior Ninjago",
+      "skin_url":"https://lh3.googleusercontent.com/UBO7VZfpoiVLLt-yUFtM0O_CmJPjpUfgDW5TtvRrAmXQtxNRjEiqgEgb5sPDdHsfGAO4NtLpC1vETHzB82hID2U-Z3UVqcDWSLk",
+      "view_skin":"https://lh3.googleusercontent.com/Pu6bfI5IxmTEUukNh4pvolrXoSFCS0hJSbVUNkluKxuwKUykQ_8b_ykF9X5fezzv4RLsXw-iKwrTJ13P8dWyuyh2VwCOuE5n79U"
+    },
+    {
+      "id":22,
+      "name_skin":"Boar Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/Ab_xA1rsyVWm-GQiPSlCsi4OL6dJbhPt4xMlusBwF5LEvzKJ6JkM9SQnY0GgmyxbaQTbXqgLuBrRpDeheWt94w",
+      "view_skin":"https://lh3.googleusercontent.com/7iTWDSn-qiOYsEUM5iIa20kqO5wsVAWOcrORz_yoxktdN4kA4lLWhSkF5EEQr0GCarmou0kBu54BwYsUAwpNAA"
+    },
+    {
+      "id":23,
+      "name_skin":"Baby Warrior King",
+      "skin_url":"https://lh3.googleusercontent.com/85qJcc9ltZwy_klnPec7Fe_EaA5k6av8IgSb3VavRiX4rxvrhpcLLeC6D9ScOVF7Y335oSzVxs-JRm26TzNMDQ",
+      "view_skin":"https://lh3.googleusercontent.com/8rHTu0db8bdJxIZz22ghQG6Uy8v8REVnIkfh1myfgoMfAibLKqO0S_6-o-cMBJ0GO-iC8iuD5FPjYEDh9969"
+    },
+    {
+      "id":24,
+      "name_skin":"Viking Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/4idu_p8iGgaCrccDMrI55DfFuZo8w7n1-fm8Q9qA9HtX-hQVm3wyVgQLOaA38Aj4rG13feIdTIRNMdOXSratqVw",
+      "view_skin":"https://lh3.googleusercontent.com/ft35OsVtVJT3cslgK78F_M4usD8M6B_MmbiQPlAGwF4hCWyscHLK92bn5_tca13vCInXCndWZgwd2Vrw45cXu4Q"
+    },
+    {
+      "id":25,
+      "name_skin":"infinite warrior",
+      "skin_url":"https://lh3.googleusercontent.com/ho7Ic9ZSpltVlLMQqJSFdPG8Vfod6MI4mVgI2cyRmmHJd_YsJFZD7yYPnWcJdsmtVp1D-F_-zzvaFY0T_bcDkQU4QNZY9x1dog",
+      "view_skin":"https://lh3.googleusercontent.com/qRfff-30ug0Ex3NrZMnD2s1HEyH4507uSAjeVnP3D0Hr_btvchuo6aW8A26dJGbm4QSveI4Tjx3TJmv5-1LhY9Ut023OKvl83Mk"
+    },
+    {
+      "id":26,
+      "name_skin":"Warrior Fixed",
+      "skin_url":"https://lh3.googleusercontent.com/S28wfunFCeR9DTd54pOZVXIBtcyelJTFQ0GJsj0HxgbVdCRA93kMAPdGVgxcEotNE7MC0TE2MD1pXFCO6CWd2pRhmYwnpbBVVC4",
+      "view_skin":"https://lh3.googleusercontent.com/oLo6wYHIWXaGXDeOq9kPnDONdN8Tnh1JKzReiX30puOmOWDEMMeggnohWQYYPjLNlcEVZn3fOMttMw7a_l6i2rYtJYsFQI__dQ"
+    },
+    {
+      "id":27,
+      "name_skin":"Viking Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/7KAJDKNWQCdYL5RG1wlGA5-WLkIQfFfgoFoD5VDbKDxbehQQLcE-39BmRcH6J7aO5akX1u4az9-2RNvnAKas",
+      "view_skin":"https://lh3.googleusercontent.com/pKPkAafINoFQ80B9ZTJDlNC9bOHQZDXPwjir75PbGMlr3qvqAZSOBTpy9grbRBwJ5gzd4stxvoYWjUU2l8TI7g"
+    },
+    {
+      "id":28,
+      "name_skin":"Warrior of Light",
+      "skin_url":"https://lh3.googleusercontent.com/Pb3AM5e0PyIhyhh4FMVVsou1pf6CzU9fUZdHWrj0t2lxr9uoAATBRHmbXWYFahuyueXmYjL_sCf8R4Y7IoUfIZGVV7-jeh3egz8",
+      "view_skin":"https://lh3.googleusercontent.com/Uqydy_Nsm4KP_4GgM_An4yOlq1DuaOTvb2jpfsM2wujbLxkpgDWHP2zu87gg5xu3Tz0tWnVBr-YcYA_l1F790Qv7Ojk9zzo8hxBD"
+    },
+    {
+      "id":29,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/ZNSaF1kcrltgYqDBvAIo07jOEjB9NXlQ6Jtqm_O0frXhclwbsiDygByTGcurYzwXFXnTkIDBsCL6W6vp69M_eg4",
+      "view_skin":"https://lh3.googleusercontent.com/OAziDU3_Y_NXFYCKmrgLkMkTE90AASB3sVMp1CNBAMylnGhxyT1KTxsnQC6M8ISWSPpL3VvST4aBbrWM2zZCvA"
+    },
+    {
+      "id":30,
+      "name_skin":"African Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/FxiyxQBSS0l3LfDpea7pNTlHmuYpmxLVe64SR8biRlmnandOxUUoBJHnJSZMynAoe421jQunTbd4X63rkm1e-Q",
+      "view_skin":"https://lh3.googleusercontent.com/Y_PU2IYQJLRc6z40lvOE02J3EOVqiS4JoSliSMGyb_bl7u1q0m7k0Au3yb47GTQsmfwZeI1zya3B75XSeenp"
+    },
+    {
+      "id":31,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/Zq5Y8peeYc3glaC1EaSKK35i9m47ijhpyMu4XK1q3QlCIcbFTeC6egC4rIBGma7x2CZDalArCK8f1MPphSF7i5_FBpzykXAa6A",
+      "view_skin":"https://lh3.googleusercontent.com/3zUK0gwIXA7aeeKJuBvCYPp6a-855IHgVmec91KlxoGSUp7mz8oE2f9gD99Bp3TaGhu9F6sZVkHkN9aZOb5SqvJCOkKQmrHJTg"
+    },
+    {
+      "id":32,
+      "name_skin":"Skeleton Warrior King",
+      "skin_url":"https://lh3.googleusercontent.com/g7dzoP1EOoemWVU5GHFWLWCr_iGSGzCW0F34_xKY2AyrEyreOd2MmtYgh-6LTMNYqVIy4EHWqQoAb3BgoWvh_kw48eiLY87JxX7h",
+      "view_skin":"https://lh3.googleusercontent.com/Arc0_mKcVAecv-Obe_Q5pSpVGJwDpgkL7Mi4u_m_PVn48WA69bdFqCQSvsrhIUML5D05ImkMKQ3lPxrYAQ3-N6EEsxDyCULvM_tn"
+    },
+    {
+      "id":33,
+      "name_skin":"Sharkticon Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/oq9OEZ9fJBDScu9OcI8jOx1wRkGdMiNgDZg4lKq_hzpN2iWmgiSTfhGXz8CqxUeUedMhgsa3VdxU6bnjpE958FSfRXKh9MjU7vM",
+      "view_skin":"https://lh3.googleusercontent.com/cPhirYbZ0wwj_dndzP5We2KYBCTFCnopWGSm2o2byoGB9qVuskxtEKUZ1DRLsX_H3-pAmGLU-nrX6eXmOyp66P8kitrAnKFJftU"
+    },
+    {
+      "id":34,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/eamUyjXiTFuMeAz3K_UDr-3SWk20zNHfEtawi155es0YSXS2wRfePahfN3IbS2dnZCiaCwf99sDUSK83hgmqB9zJNerRKcPcj58",
+      "view_skin":"https://lh3.googleusercontent.com/g2NlSv_eHplk79TXKrTA8RBhuXQL1FU5P0zKbAW7mawwbZGujF_AofNOokP5IxFK7JRCS83qNXtQ2RBP-Oc890rW8NcGgyefMwcc"
+    },
+    {
+      "id":35,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/z0EuSY_S7K8dPgl5d0BKKjLG5dCUxCZICwE1Jp4qU8cOzMY-c1ljbVg8TIzHuaIOVsSIt7kbOTiIRSxzxl3Q8CFrTqEYspXf-FG_",
+      "view_skin":"https://lh3.googleusercontent.com/Qi2SYtHOQRTIyoo7zdTTyNsiaix6bklKaSZqUmjLDuaXS1UEu5oEikWHfhAAkz3U6YN4xE6I7jsSMkelTJxL8tXlZOXfyNmyOaE"
+    },
+    {
+      "id":36,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/jDWgstGpAXohA8aYAhWQjoJiha7Wa3aVojyzFOJqWDZwy_OYkgpCLcmImbJaWIsKUJ0KC1mnlAm5XdvEiN629h2HPBvdUZySNg",
+      "view_skin":"https://lh3.googleusercontent.com/EAxLwWMwhyk5bssNgF3OdZK8W_i-C8PZjkpaS9p8lP7GESAZZag3DoKL7dq-FxpU2bhchG9RD2LYb99C6__glP_U8OHmmzm5LujE"
+    },
+    {
+      "id":37,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/HuJZMLRiP_rwf_-5Zf52eAKxE3nEzCwVF-TvNgTKNCcHvWGvm5MlU4dUAQYsLHgqseBULg61MsS-LCYbefpNau56SCqKtWlvmQ",
+      "view_skin":"https://lh3.googleusercontent.com/jHqaaAy397tlt4tUAWjI7Ou8P9qCJFu7ghnI95QKEwIj0dO4B7Ua71NasNld6tqlDqVTCLm4EvY5PfpFXzSds3WD-BjjO8R08g0"
+    },
+    {
+      "id":38,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/iaigvLD0E1w94Qvg7XUHSXRgnn9gq9W-N5qm6jMvocYrNVX_HAF48AMzoPSHwmpmS203ZN2MTX7UbaxKSG8oHMug3LZCxeP2H3Y",
+      "view_skin":"https://lh3.googleusercontent.com/BKJcFclkB6QmHlIyWL6mQXqAf7gpFqMJVRdeeFcZn1625gi1AqxugRsra4ql0x6M8Vx-8imTVOfMj25JZr3bnVLFiLJmlx54bjg"
+    },
+    {
+      "id":39,
+      "name_skin":"Warrior Pika",
+      "skin_url":"https://lh3.googleusercontent.com/nTPHNgluVXNe-tXnULhMHpeGFU4chpiYOwnzB2LMgHaXh9Xvq6JxT14OGLAlJuU-z_ckcA-d-94JN9Se-HEwkkylvRN_R2HjMZ8L",
+      "view_skin":"https://lh3.googleusercontent.com/IHbCfRVmv0HzXtuoAKlzffmvfl8Cw_wH9sPHIS3-_dLkEv1kCZIavlp-RW7JV6z3kyWBXu6WCY3JBlZaXKynok9B9iIIOD-ptQ"
+    },
+    {
+      "id":40,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/GY2Gu-7E-ePzB75MBigKejgrI-5-1LMyCoYmkK-kayYWdCKQ6iKeNG7vOvxIEiEQDUDnKed_HSPR5liFj03jsok4juoHXyc_gg",
+      "view_skin":"https://lh3.googleusercontent.com/BCPsQOzCTexpcrIErgVlNLRphl6QY3WRdLdbmaTH1dt9m0mbxpwQdZkqCBVcGtnoxKpXZNNsxn5mqninAgy51xYleniRGihgLrQ"
+    },
+    {
+      "id":41,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/nG1qAl22FahrtFH1AQNJHDg-CwT20zX2JLIoVdduU7pbeiME27fkyVJLWHExlTt0ce-w8TEHbTStxhQfJpo3Wq1PFIFpmn1dBqY",
+      "view_skin":"https://lh3.googleusercontent.com/ysUDt2SpK48v3doLlCl1XDd7FIACFeuyoHaZ83TEKgqwn_EtL7Am28RsnZ5NZRHwhvHPviocSO3zfOZ_2yBupFBudQEIkG9hPQ"
+    },
+    {
+      "id":42,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/BoFBBm8fB4rFCU5eG-aqPgnzu7wmtcV1ETPX6bXtHCngqpgZIlPnNEWhoG5XbTj4k3T-zg-CJCPjX27yNP4d3qn6lZh2e647ElM",
+      "view_skin":"https://lh3.googleusercontent.com/200bWzUmyllMHpDE0_d7sGdUzAV4biGGBzEGorYX1Qmrj8unJCRZTtyyPrbzYxSxsP2ACufwnr61jjSJuxf8k5O1tTLvIqo1wHg"
+    },
+    {
+      "id":43,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/hxN606MY4dkEkhCbkB9BBn9yyC7tzZH8IVSm18DfbdUHWjpjT_l47_65cP6NOEntenV8IvyV4w5oamGB367AokCID2hJa1MrZA",
+      "view_skin":"https://lh3.googleusercontent.com/niVOF3_32QST8fKAaUMKF67CVJTtBbMy5zRx3o9FtCObqF94WiRVCZ-HK3039JVJUeM1jaXPnci8Pmq3ljXiGSdYZ6czMVH1Q4Ml"
+    },
+    {
+      "id":44,
+      "name_skin":"Warrior Knight",
+      "skin_url":"https://lh3.googleusercontent.com/oGJwDYlhK5Khgstv0lxHHntpAgrAE2R0OrBiURStSdcuob0EWx--kn4I8ctnZGDocgEvfWe9syktRv4cswlOJb3VxqPgTaplA9Q",
+      "view_skin":"https://lh3.googleusercontent.com/jDn_u1XwcwS-322u3IWeH9lQpwx9owzkYxjP9UmoUzV-SuIUQr4n0Plokl-H3lmBsXH1vqoXS7RzVISTNwyKryjvyykr0yqeEg4"
+    },
+    {
+      "id":45,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/tW-A8sxojbEnal9mEhSCCrdknAu68FuzQxktbrhofNEj-zRupzCN4MX13Wa6nyAzhoxeG5G-6K6thBgrZv-sa9eBimQtOh-YxYs",
+      "view_skin":"https://lh3.googleusercontent.com/lRVITqK1s-g3TkX6F1nFKLqDGV-JcohbjXiFiO4BZMIbL5V1sqvm_5k5nRVEbOjVmzHCThCWZHAB166lmImVZSDDX8btkNhj3Jv1"
+    },
+    {
+      "id":46,
+      "name_skin":"warrior girl",
+      "skin_url":"https://lh3.googleusercontent.com/eg8heELkzrlWLMcAGsjP6S27_ZvaajrhewnM5Q4WG1H6GSy4ApwMhskFR4JqH4SP63QDxHjN8SjUKQmxOw5d1KFFGCrfNhV5Vg",
+      "view_skin":"https://lh3.googleusercontent.com/MRftMQ43kFelPPK1jT3FCrms-cb9oKlzH2J1QJ8QZEYlH3G6ARgh5lO5MRZ4jP-DZ-5dSQ8WOfsff58Kms8fpqzNghPWet2p4A"
+    },
+    {
+      "id":47,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/yf9P2ggC-VEG62iY9O0r746p2qy3Yfunw9VB3WpcMPIRLdaV3kp-JiSkPJ7o8FN-2wYrWV4duX5JdhRKK2u09qbKX9owSq_wWlf_",
+      "view_skin":"https://lh3.googleusercontent.com/BDmlo6IHNQ6sYhux7Yu1XKI8rTETviM06thQrNc1Ro5jaRP3_tbnKV6TI7QKXoaedgAgEwBV57Xd89AM7PFxJHXFCbfc45SjLA"
+    },
+    {
+      "id":48,
+      "name_skin":"Ender Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/IuOvx_lD3GkBnxuTkWHEKiFnld9FwFJPEIyrvTih4IjqLJwlTQ-5OlRcXef1mBtWI1JgigS6io-nLXyog0ScQa7xk2xx-Qxi5A",
+      "view_skin":"https://lh3.googleusercontent.com/56WD4YMj3gUMhRTjgCWAY0ng2zd3CkOyA2Wo35xqqYK1tzv4N7ylEARFpNAHGBz1eNP1c-CwRa8YPCrf-74EeJAmB6_WjpWWN5c"
+    },
+    {
+      "id":49,
+      "name_skin":"warrior",
+      "skin_url":"https://lh3.googleusercontent.com/FjlEpsR3CJTtGfjv_jnpuuP6S4rOob3AsmAt1dyaYqdD4Z49YlTaxcjnv2frECGjkc-KVMl4VcwPJ08vYZycKeVHtl1KvvY0F8lm",
+      "view_skin":"https://lh3.googleusercontent.com/tOyzTabo_T2yYbJsCDGNMsMMfRDbs5B94UzXoT9LrD3FEwZl_fAkAvhsyg9_krLl71FLQkEwarIFjmbIXBGPMw6GpM4hutp2sUmg"
+    },
+    {
+      "id":50,
+      "name_skin":"Warrior",
+      "skin_url":"https://lh3.googleusercontent.com/VYWeT6tZv0zugnuinpo3xz1gnOyhehS47BImcjfsLDkG1tyBfzKsE_TVFwIedCxs8zSKcBw_v798Vinj_2hBsNp1_PvbPVJ6cOl_",
+      "view_skin":"https://lh3.googleusercontent.com/58bGNiWqyiUp-M2eqI9XBUbiQAC_eDx0FVVCtYsQV_9m4noBu6e4leZ_jS5N59fsLQaS4jwXbSPkoeOL3L_jMrA-kMnry9lRx6o"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Vehicles Addons",
+      "add_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/New%20folder.zip",
+      "addB_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-B.mcpack",
+      "addR_url":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/PUBG-R.mcpack",
+      "view_add":"https://archive.org/download/pubg-r_202205/PUBG/PUBG%20Vehicles/11.png",
+      "des_add":"file:///android_asset/Addons.Html"
+    },
+	{
+      "id":2,
+      "name_add":"Ultimate Bedrock Utilities Addons",
+      "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
+      "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
+      "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
+      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
+      "des_add":"file:///android_asset/Addons1.Html"
+    },
+	{
+      "id":3,
+      "name_add":"Defender Of Village Addons",
+      "add_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village.zip",
+      "addB_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20BP/",
+      "addR_url":"https://archive.org/download/defender-of-village/New%20folder/Defender_Of_Village%20RP/",
+      "view_add":"https://archive.org/download/defender-of-village/New%20folder/1.png",
+      "des_add":"file:///android_asset/Addons2.Html"
+    },
+	{
+      "id":4,
+      "name_add":"Plane Craft 2 Addons",
+      "add_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202.zip",
+      "addB_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20BP/",
+      "addR_url":"https://archive.org/download/plane-craft-2/New%20folder/PlaneCraft%202%20RP/",
+      "view_add":"https://archive.org/download/plane-craft-2/New%20folder/a.png",
+      "des_add":"file:///android_asset/Addons3.Html"
+    },
+	{
+      "id":5,
+      "name_add":"Naruto Addons",
+      "add_url":"https://archive.org/download/naruto_202204/New%20folder/Naruto.zip",
+      "addB_url":"https://archive.org/download/naruto_202204/New%20folder/B.mcaddon",
+      "addR_url":"https://archive.org/download/naruto_202204/New%20folder/R.mcaddon",
+      "view_add":"https://archive.org/download/naruto_202204/New%20folder/p.png",
+      "des_add":"file:///android_asset/Addons4.Html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Mushy Island Maps",
+      "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":2,
+      "name_map":"New Clark City V 3 Maps",
+      "map_url":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/New%20clark%20city%20V3.zip",
+      "view_map":"https://archive.org/download/new-clark-city-v-3/new-clark-city-map/new-clark-city-map.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":3,
+      "name_map":"Liberia City V 10 Maps",
+      "map_url":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/Liberia%20city%20v10.zip",
+      "view_map":"https://archive.org/download/liberia-city-v-10/liberia%20city%20map/liberia-city-v10-final-update_7.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":4,
+      "name_map":"Fortress Maps",
+      "map_url":"https://archive.org/download/fortress_202212/fortress_map/Fortress.zip",
+      "view_map":"https://archive.org/download/fortress_202212/fortress_map/fortress_map.png",
+      "des_map":"file:///android_asset/Maps.Html"
+    },
+    {
+      "id":5,
+      "name_map":"Medieval Town Maps",
+      "map_url":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/Medieval-Town.zip",
+      "view_map":"https://archive.org/download/medieval-town_202212/medieval%20town%20map/medieval-village-03_9.jpeg",
+      "des_map":"file:///android_asset/Maps.Html"
+    }
+  ]
+}
